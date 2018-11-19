@@ -1,0 +1,52 @@
+= Linux.BtcMine.174 -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Tool.Linux.BtcMine
+----
+4dc4ca9f10c0d084ae32556e0a4eedbc3842cfd8: 64
+----
+
+=== Linux.BtcMine.174
+----
+9ae9233c79390495e607059870671c9936c413c5: just4root
+b59fc07afc9f159562f71b3a21c38b1d471acc2f: sdsahd2e3dll
+----
+
+=== Linux.Exploit.CVE-2013-2094
+----
+0e76f4c72295fe851b775dac8c49ec53108f1df6: fs_elf_64
+----
+
+=== Linux.Exploit.CVE-2016-5195
+----
+a3f88f22b046617d6728014bdb6dd64c5b4a76ea: dc_code
+7071c46be40afe6a7bd0d50d67e76dca1b0c7c23: dc_elf_32
+0a8a9f5ef7414eb37b3823326bed68c0d16af5cc: dc_elf_64
+----
+
+=== Linux.BackDoor.Gates
+----
+7562774673d012ca274a3ee52e7084585adda1ed: syn
+5b3132a9c2ec2a210436b1a755e3a7bac2e6142b: udp
+----
+
+=== Linux.Rootkit
+----
+33d4cf9b1f2d3c42b2c4cfd507626057d20d7c52: bashbd.sh
+c1439af08c337e2fd8571cf51dbde9b90f19603a: br.conf
+b2bf2bfb2d005b485e934cf92a2aec58287b6bd2: brconfig.sh
+6a3bee822684017e7bca9414f3ef11d8d3a774a4: brdaemon.sh
+95aa3a369770abb8be1d774901fa4de8d05eb63a: brootkit.sh
+e6459da0abbdd62311e5d6509b64414b8b459ed2: install.sh
+----
+
+== Network indicators
+
+=== Domains
+----
+d4uk.7h4uk.com
+cache.windowsdefenderhost.com
+----

@@ -1,0 +1,38 @@
+= VSDC Hack -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Win32.Bolik.2
+----
+fbe8f9be579dddd2bcb109ea5107005e7d914c6d: video_converter.exe
+f2f2005062f6de7844b05b1d92f2a52cbec01e6a: video_editor_x32.exe
+280b3d53ce23ef27f222a979b58bbaf6a25629e9: video_editor_x64.exe
+30fa0e961c4c2b43a977eca4639edf058c52a6e6: codec_pack.exe
+9c520a412bd3fe627848bc56c1cc7385be35edef: codec_pack.exe
+6f681bb7190c6d808e43ab929c3891759b0fe5c9: codec_pack.exe
+----
+
+=== Trojan.PWS.Stealer.26030
+----
+8d1475501dad8a4e82c415c0be1a830ce169cc22: video_converter.exe
+8c4f3862d50c3bbfcebd69cabf18086a835d69ca: video_editor_x32.exe
+e5b8e3f61ae25fb8cbcefb34e73fe521cc57956b: video_editor_x64.exe
+4cb3e80c3e75c76190608944a90e1108293c04ec: codec_pack.exe
+----
+
+== Network indicators
+
+=== Domains
+----
+appnodejs.xyz
+sync-time.info
+----
+
+=== IPs
+----
+104.223.76.230
+213.252.245.146
+213.252.245.229
+----

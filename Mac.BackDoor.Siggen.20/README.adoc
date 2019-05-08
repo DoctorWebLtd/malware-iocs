@@ -1,0 +1,40 @@
+= Mac.BackDoor.Siggen.20 -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Mac.BackDoor.Siggen.20
+----
+66ecc5d96d7fbcb54cac534a16b12e918fa0f11c: WhatsAppService.app.zip, Portfolio.app.zip
+eb369722f8c5fed739fe3ceb210115007c583280: WhatsAppService.app\Contents\Resources\script
+95421226a71e9b1977a14ed03c3c0ab7ac8f6a20: a.plist
+0640decb8b5511d4c36ce8a98a287e2d8d2fe375: c.sh
+----
+
+=== Python.BackDoor.72
+----
+16b7fe4d36672664d2a4816558f01e0ee171c284: embedded python script
+----
+
+=== BackDoor.Wirenet.517
+----
+10000d234dc4f9fe7ae7139df3d1cd64138c347d: Portfolio.exe, WhatsApp-Web.exe
+----
+
+== Network indicators
+
+=== Domains
+----
+usb.mine.nu
+message-whatsapp.com
+zr.webhop.org
+enz.webhop.org
+----
+
+=== IPs
+----
+185.101.94.99
+185.162.88.213
+95.140.125.108
+----

@@ -1,0 +1,175 @@
+== Samples
+
+All hashes are SHA1
+
+=== Trojan.MonsterInstall.1
+----
+4f053ad18150f07f15039bd845d3e2db8bd50c72 - main.js
+b24e8dfd44a42a74e8c47d759d36fc178d988a93 - start.js
+2cfa09b812f90c9f1e0a1e620c4ef9d8f8f6b5e7 - crypto.dll
+d0a6fab0e4c98413f56f96d68c11ebd64db090cf - network.dll
+444d4a915ba55a46b9c551ba4a6c1398a1cd5e16 - windows.dll
+----
+
+=== Trojan.MonsterInstall.2
+----
+21d6f7980e6b1383c0cc813bfc003f2adf51eb74 - start.js
+980f067ce3976a3f40e1a39e1bc8b74c3849f91e - startDll.dll
+52e021f47f487e58d9a8edfb887925e2e75be256 - update.js
+d337eeefdf45055a1e3fbf26abe7ca8eb5c2295a - updateDll.dll
+b6a9db83a915494fa0b22cd116ec26cbe4d166ce - ESP чит для КС ГО.exe
+----
+
+
+=== Trojan.MonsterInstall.3
+----
+cf20c882dcc427bff822fa2c54fab39397a8d6e7 - codeX
+0f5d2fe52f15adb6813bd398dcc1e10de52e2953 - main.js
+----
+
+=== Trojan.MonsterInstall.4
+----
+46b8955c8fa07994f8cb3c11dff0a277c7353730 - xmr-1.7z
+0909fe2c42c4b3480313671dde00d4e0fd756f1b - xmrig.exe, x86
+0785a05695428436a95e875b058268cfb1347207 - xmrig.dll, x86
+f5c766423bf6a1eca4b2063da8464e2f09778920 - start.js
+1c5e358185f15ae619dceb353adce18a2221ff19 - xmr-1-64.7z
+c9e4dd2f67a4aa2aaa152e92df4fe137d1d73b78 - xmrig.exe, x64
+2710c02c6e069b94fc2708eae42f309b1313bf5d - xmrig.dll, x64
+d91fc46d9af39fb1bbb45f1c4970437b49497edf - start.js
+----
+
+=== Trojan.MonsterInstall.5
+----
+0950ba59af3ffa8ac32882aa280d1fbe604d5c68 - VvaldiSetup.exe
+2857eca1bb4dd401958107a9b7d0d2faaeea4e61 - MonsterInstall.exe
+b934131ab7fbf66caf58a9deb6c689bf6d979fee - MonsterInstall.exe
+----
+
+=== Trojan.MonsterInstasll.6
+----
+befdec16c459bd71bd7e735276ad1a10adc8fd76 - updater.dll
+25186470ae0982fff93c2569fb9de5e489fc011b - updater.dll
+----
+
+=== Trojan.MonsterInstall.7
+----
+d7d7fe73e3288e4b1e7be5a460e55c0925465428 - ЧИТ ДЛЯ CSGO БЕСПЛАТНЫЙ HVH.exe
+d8dabb84e4ab75fd1dc0ec806933d60b5c693bd2 - DayZ (2018).exe
+322c660e644af0930476e6540dce7da6d4b06e39 - work.js
+8db6aa47181d8cf2f5f1f60db33b380d8b24ced4 - install.js
+873ba485d40199ab7f7ebe1258aa56e09625f3af - codeX
+----
+
+=== Trojan.MonsterInstall.8
+----
+ecc02c3cccf8496d12ce48e98e5219128ed72e05 - install.zip
+271bbad1ba905d5a5971f712f8084710cbfa76fa - install.js
+c0d39a50799fa11ea402a7634b972479d5a6e16c - MonsterInstall.dll
+----
+
+=== Trojan.MonsterInstall.9
+----
+b7c0b0f7c8765a3021b4f907e0835f8bee53730b - FC.exe
+8d06ee83054c790f2401352af29ad0c56b0db52f - updater.dll
+----
+
+=== Trojan.MonsterInstall.10
+----
+eb7c08ef01c4eba0a1cb2edb06dde6b7f5e9383d - Чит wallhackwh для CS GO {steam no steam}.rar
+f4cf382939aaf7f76a5cbf81c525dab2a26a4d5e - Чит wallhackwh для CS GO {steam no steam}.exe
+08fd5700e6d54a7bd2b1b2589d4f363d9335cb36 - Dawn of Man Трейнер  7 v1.0.5 {CheatHappens.com}.exe
+b5ccc67d9aa7e6faeec6091bc2169e185169c88c - GLOW WH.exe
+bbc9c42f5450b4afe7d92b697b094b82fe8d27dc - Чит wallhackwh для CS GO {steam no steam}.exe
+7e8c549da28c08642e8e7d5a780521666715d7d6 - starter.exe
+a7c6cba1f02624af4eca7ce2afca17add72fe15f - Чит аим и вх на Блокаду .exe
+785e2807132889d886d2794eb576c5ff2571e852 - new-node.bin
+f4a0d14e862c6d7de28096a2662ae08fcb89679d - work.js
+----
+
+=== Trojan.MonsterInstall.11
+----
+d6d3f9f067e8bb2244e4a4529fa032d92d9f0425 - Чит для Warface валхак (вх).exe
+a4f81547d5e594b039241c36d443471857d3c10c - Чит для Warface валхак (вх).exe
+----
+
+== Network indicators
+
+=== C&C Domains
+----
+cortel8x.beget.tech
+reserve-system.ru
+s44571fu.bget.ru
+xyi-sosi-guboi-trisi.xyz
+cherry-pot.top
+corteli.com
+----
+
+=== Distribution sites
+----
+fastscreen.ru
+torrent-igri.com
+румайнкрафт.рф
+clearcheats.ru
+worldcodes.ru
+mmotalks.com
+cheatfiles.ru
+minecraft-chiter.ru
+fasrworm.ru
+corteli.com
+----
+
+=== IPs
+----
+176.57.70.81
+----
+
+== Artefacts
+
+=== PDB
+
+----
+B:\Develop\VisualStudioProject\module\crypto\Release\crypto.pdb
+B:\Develop\VisualStudioProject\module\network\Release\network.pdb
+B:\Develop\VisualStudioProject\module\windows\Release\windows.pdb
+D:\Develop\VisualStudio15Project\botnet\starterDll\Release\starterDll.pdb
+D:\Develop\VisualStudio15Project\botnet\updaterDll\Release\updaterDll.pdb
+B:\Develop\VisualStudioProject\botnet\installerDll\Release\installerDll.pdb
+D:\VisualStudioProject\libpeconv\Release\libpeconv.pdb
+D:\VisualStudioProject\libpeconv\x64\Release\libpeconv.pdb
+D:\VisualStudioProject\test\starter\Release\starter.pdb
+D:\1isua1St1dio1ro1ec1\test\s1ar1e1\R1le1se\1111111.pdb
+B:\Develop\VisualStudioProject\botnet\MonsterInstall\Release\MonsterInstall.pdb
+D:\Develop\VisualStudio15Project\botnet\MonsterInstall\Release\MonsterInstall.pdb
+B:\Develop\VisualStudioProject\LEGACY\FCInstall\FC\Release\FC.pdb
+D:\VisualStudioProject\inst\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+----
+
+=== Source paths
+----
+B:\Develop\VisualStudio\VC\Tools\MSVC\14.12.25827\include\corteli\json.hpp
+b:\develop\visualstudioproject\botnet\monsterinstall\monsterinstall\source.cpp
+b:\develop\visualstudioproject\legacy\fcinstall\fc\source.cpp
+----
+
+== Installation
+
+=== Registry
+----
+HKLM\\SOFTWARE\\Microsoft\\MoonTitle\\
+HKLM\\SOFTWARE\\Microsoft\\Windows Node\\
+HKLM\\SOFTWARE\\Microsoft\\Reserve System\\
+HKLM\\Software\\Corteli\\File Checker\\
+----
+
+=== Filesystem
+----
+%WINDIR%\\NodeService\\
+%WINDIR%\\Reserve Service\\
+%WINDIR%\\WinKit\\
+----
+
+=== Task scheduler
+----
+MoonTitle
+----

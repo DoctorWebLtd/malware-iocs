@@ -1,0 +1,74 @@
+= Fakesoft -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Win32.Bolik.2
+----
+7d6c24992eff0d64f19c78f05ea95ae44bc83af1: NordVPNSetup.exe
+d39c320c3a43873db2577b2c9c99d9bf2bdb285c: NordVPNSetup1s.exe
+d5ed3c70a8d7213ed1b9a124bbc1942e2b8cfeea: NordVPNSetup2s.exe
+e89efde8ae72857b1542e3ae47f047c54b3d341a: nord-sig.exe
+59f511ea1e34753f41a75e05de96456ca28f14a7: NordVPN.exe
+453c428edda0fc01b306cc6f3252893fce9763a7: NordVPN.exe
+69724850494cef5343008afbea0b88076d153bd1: clbplus_bot.exe
+aa91162d43f54b61d9dba5c76724942da61242df: invoice.exe
+0abd6ed3c7fb41943b1c5b5329bb1bcbed01f586: Invoice360TemplateDesigner1.8.exe
+9562a8f3f9d150eb7395d6de35caca8aa416dd74: Invoice360.exe
+5bfa31e2d6930d492abba4b2c574d15a20b45823: Invoice360ReportsBarcode.exe
+14759c414f3f0d05dca7bfdbb827a351ccc86651: gk.exe
+----
+
+=== Trojan.PWS.Stealer.26645 (Predator The Thief)
+----
+2508d33035597243aaa4d9b860cda964bf36aec3: clbplus.exe
+4b732a8822cfa3c4a840cc1e3835519cb1aafa09: clipplus.exe
+a9e9468e7067236c92544653732801ae690bc941: Invoice360TemplateDesigner1.8.exe
+a32b45749a96b7fcf1d0e2c4b4aeab611e9ad80c: Invoice360ReportsBarcode.exe
+1ab55553f2b3fdc545b3b4fd84ce69fc4372326b: Invoice360.exe
+3bdafcbdbf3f1a91a3d4c19a5e570170aed9de13: invoice.exe
+----
+
+=== Trojan.PWS.Stealer.24943 (AZORult)
+----
+bdd5124149df4926cfbb94389b5921051a6534b0: <unknown>
+d5287fac1d35a59a6e3ad6968ef3ef81b348882d: <unknown>
+688a240ee32a8e249fa9dec8f9d378654112c93c: <unknown>
+----
+
+=== BackDoor.HRDP.32
+----
+e7d526995d5ffd0dcf098fdf9ccefc993845b97a: NordVPNSetupRDP.exe
+036e3f1a241b96e8799a1584e19dab5a2f3a6c11: NordVPN.exe
+----
+
+== Network indicators
+
+=== C&C Domains
+----
+sync-time.info
+munsys.icu
+android-power.space
+dns-master.club
+juster.icu
+normpost.club
+----
+
+=== Distribution domains
+----
+nord-vpn.club
+clipoffice.xyz
+invoicesoftware360.xyz
+----
+
+=== IPs
+----
+213.252.245.229
+185.225.17.154
+2.56.212.212
+2.56.213.96
+2.56.214.102
+2.56.215.159
+2.56.215.234
+----

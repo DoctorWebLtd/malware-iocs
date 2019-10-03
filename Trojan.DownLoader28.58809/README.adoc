@@ -1,0 +1,25 @@
+= Trojan.DownLoader28.58809 -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Trojan.DownLoader28.58809
+----
+cf0fb4950130abddead04c21316912418562bf8a: flashplayerapp_install.exe
+bbbca10a8545b0421fbfcbd0b3b7a42527fea641: secinit.exe
+----
+
+=== Trojan.Siggen8.50183
+----
+748e54e607987756fa2ed08ed013ab7271321827: OINFO11.OCX
+----
+
+== Network indicators
+
+=== IPs
+----
+199.247.11.123
+167.179.91.48
+----
+

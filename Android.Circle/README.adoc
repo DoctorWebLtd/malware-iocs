@@ -1,0 +1,67 @@
+= Android.Circle -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Android.Circle.1
+----
+28612e3c18f179d125f97443ba194e13d6ac635c: com.app.bestwallblack
+44cc27d73976feb4772436a5fe4f7226bbca4500: com.aboutlife.futureviewer
+d548550a437c83f56c0a41a165f08b424224efec: com.horoscopelife.zodiac2020
+57eb0919e5b8eee24547f74cb2a1562780ecb00c: com.wallypi.pepers
+388d45c93c71565fe30ea7cbb9555c0812ccc1bb: com.daily.astrologyhoro
+e860e71c653145aafffa3d005f00245a1280af0f: com.findyou.lifehistory
+72c0ffdadbf45e20e91262d4f5883e84a5470c57: all.com.lovs.datter
+e410ad42ad609a42bbb0404d8f9b91abdfe13b11: com.hdwallpaper.beautywalls
+d0598e7dd6ce61d6e6b99208cab03165e75d938a: com.batterybooster.speedup
+acf5f99ba7bad353f93dad4aa808003e3d136da6: com.relationship.horolove
+a36d8138bd1da19d60814274d030e15fb5277f2c: com.wallypi.peperspro
+52df1d7f5b76b40117c0c21b22a6374906b56cde: com.imagerepair.cartooneffectpro
+2a95120d6b036a17426292297796a774d69ea290: com.hdwallpaper.beautywallspro
+975daed6e5d9acf75f50b6ba97f35fb3fa5adc38: com.daily.astrologyhoropro
+2b576f5bd7751190a8d346a5d71ac38643d3653c: com.imagerepair.cartooneffect
+0a18cbdfe93b0fc5a408349cf7fb5d5abefc50b1: com.bubbleup.gamepop
+2b1af363cbd65c9a6ade5c9f8f679af2d261c276: com.mydatter.loves
+7487611db437b6b07f487512d6929d74bf1a989e: com.wallpapershop.livepaper
+----
+
+=== Android.Circle.2
+----
+c213e4baaa616c886cfbc8293e22faad995cc12e: config.armeabi_v7a.apk
+----
+
+=== Android.Circle.3
+----
+2017bb38515e28be80f95bc749017cfda599c526: config.armeabi_v7a.apk
+----
+
+=== Android.Circle.4
+----
+daba3aa97ae09ae143423f13fad98928984b539c: config.armeabi_v7a.apk
+----
+
+=== Android.Circle.5
+----
+5e93c86f5774bcd58f7b2dceb8cd7ac3cfb5558a: config.arm64_v8a.apk
+----
+
+== Network indicators
+=== Domains
+----
+circle.cleandroid.ru
+circle.fallballdroid.ru
+circle.droidcandy.ru
+circle.wall3droid.ru
+circle.wall2droid.ru
+circle.callerdroid.ru
+circle.walldroid.ru
+circle.brickdroid.ru
+circle.hardwalldroid.ru
+circle.droidp.ru
+----
+
+=== IPs
+----
+95.215.205.228
+----

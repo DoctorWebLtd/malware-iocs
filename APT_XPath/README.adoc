@@ -1,0 +1,137 @@
+= Study of the APT attacks on state institutions in Kazakhstan and Kyrgyzstan -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Exploit.RTF
+----
+a707de5a277573b8080e2147bd99ec1015cf56c5: doc.rtf
+----
+
+=== BackDoor.Apper
+----
+48944207135ffbf0a3edf158e5fe96888a52fada: dropper
+23dbe50d3484ba906a2fd4b7944d62fb4da42f95: RasTls.dll
+5b041bce8559334dc9e819c72da9ff888d7e39c9: shellcode
+----
+
+=== BackDoor.CmdUdp
+----
+314b259739f4660e89221fa2e8990139a84611a9: dnscache.dll
+----
+
+=== BackDoor.Logtu
+----
+7797107eb4a9a9e4359413c15999603fa27714b3: logsupport.dll
+----
+
+=== BackDoor.Mikroceen
+----
+2930efc03e958479568e7930f269efb1e2bcea5a: nwsapagent.dll
+56000aa9a70ff3c546dab3c2a3b19021636b3b9c: nwsapagenttt.dll
+e98f3b43ab262f4c4e148e659cc615a0612d755f: srv.dll
+----
+
+=== BackDoor.PlugX
+----
+b03c98a9539d4cbb17f2efc118c4b57882b96d93: CLNTCON.ocx
+b7eac081c814451791f0cd169d0c6a525a05194d: CLNTCON.ocx 
+9a2d98321356ad58ea6c8a7796fd576e76237bd1: CLNTCON.ocx
+ec548ba0ec9d2452c30e9ef839eb6582a4b685c8: CLNTCON.ocp
+7bcb10f1ed9b41abbbe468d177cd46991c224315: ESETSrv
+d52152661c836e76bebd46046ba3f877c5d381d8: http_dll.dll
+1ba85de14f85389bf3194acea865f4c819d7b602: QuickHeal
+8d5e7d389191a3de73350d444c3989857077f629: QuickHeal
+aa0e7101b1663c23f980598ca3d821d7b6ea342d: scansts.dll
+84c34167a696533cc7eddb5409739edd9af232ed: msvsct.exe
+2c51147b271d691f0ab040f62c821246604d3d81: msvsct.ini
+2e2919ce6f643d73ff588bccdc7da5d74c611b2c: msvsct.ini
+6fc2e76a0d79cc2a78a8d73f63d2fc433ede8bd5: RasTls.dll
+e6381d09cdf15973f952430e70547d0b88bb1248: decrypted
+f6bf976a2fdef5a5a44c60cbfb0c8fcbdc0bae02: decrypted
+----
+
+=== BackDoor.Whitebird
+----
+e70a5ce00b3920d83810496eab6b0d028c5f746e: oci.dll
+c47883f01e51a371815fc86f2adbfb16ffb3cb8a: RasTls.dll
+6fc2e76a0d79cc2a78a8d73f63d2fc433ede8bd5: RasTls.dll
+----
+
+=== BackDoor.Zhengxianma
+----
+cce4ba074aa690fc0e188c34f3afff402602921a: RasTls.dll
+----
+
+=== Trojan.Mirage
+----
+34085c6d935c4df7ce7f80297b0c14a8d3b436d8: cmdl32.dat
+f5fe30ee6e2de828c7a6eecbb7f874dc35d31f43: config.dat
+c4ef5981bee97c78d29fb245d84146a5db710782: rapi.dll
+d4558761c52027bf52aa9829bbb44fe12920381d: server.dll
+----
+
+=== Trojan.Misics
+----
+c90ade97ec1c6937aedeced45fd643424889d298: MISICS.dll
+5b8f28a5986612a41a34cb627864db80b8c4b097: MISICS.dll.crt
+----
+
+=== Trojan.XPath
+----
+3e1d66ea09b7c4dbe3c6ffe58262713806564c17: svchost.exe
+b6fba9877ad79ce864d75b91677156a33a59399e: yyyyyyyygoogle.sys
+8cc16ad99b40ff76ae68d7b3284568521e6413d9: yyyyyyyygoogle.sys
+5c21ce425ff906920955e13a438f64f578635c8f: yyyyyyyygoogle.sys
+e4e365cc14eeeba5921d385b991e22dea48a1d75: PayloadDll.dll
+b07568ef80462faac7da92f4556d5b50591ca28d: PayloadDll.dll
+fc4844a6f9b5c76abc1ec50b93597c5cfde46075: xPath.dll
+2bf5cfe30265a99c13f5adad7dd17ccb9db272e0: xPath64.dll
+----
+
+=== Tool.Proxy
+----
+a1c6958372cd229b8a75a09bdff8d72959bb6053: cryptsocket.exe
+30debaf4ec160c00958470d9b295247c86595067: vmwared.exe
+----
+
+=== Tool.Scanner
+----
+05a2b543b5a3a941c7ad9e6bff2a101dc2222cb2: m17.exe
+----
+
+=== Tool.WmiExec
+----
+8675e4c54a35b64e6fee3d8d7ad500f618e1aac9: wmi.vbs
+----
+
+== Network indicators
+
+=== Domains
+----
+tv.teldcomtv.com
+dns03.cainformations.com
+www.sultris.com
+kkkfaster.jumpingcrab.com
+www.pneword.net
+v.nnncity.xyz
+nicodonald.accesscam.org
+----
+
+=== IPs:
+----
+45.32.184.101
+45.63.114.127
+45.77.234.118
+45.251.241.26
+46.105.227.110
+46.166.129.241
+103.93.76.27
+104.194.215.199
+114.116.8.198
+116.206.94.68
+137.175.79.212
+142.252.249.25
+202.74.232.2
+----

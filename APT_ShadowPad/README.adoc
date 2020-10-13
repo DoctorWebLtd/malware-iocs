@@ -1,0 +1,65 @@
+= Study of the ShadowPad APT backdoor and its relation to PlugX -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== BackDoor.ShadowPad.1
+----
+4bba897ee81240b10f9cca41ec010a26586e8c09: TosBtKbd.dll
+----
+
+=== BackDoor.ShadowPad.3
+----
+693f0bd265e7a68b5b98f411ecf1cd3fed3c84af: hpqhvsei.dll
+
+----
+
+=== BackDoor.ShadowPad.4
+----
+6ad20dade4717656beed296ecd72e35c3c8e6721: WinRAR SFX
+13dda1896509d5a27bce1e2b26fef51707c19503: TosBtKbd.dll
+27e8474286382ff8e2de2c49398179f11936c3c5: TosBtKbdLayer.dll
+----
+
+=== BackDoor.Farfli.122
+----
+6a1d928709f46d344f75936519c81137258e287c: RasTls.dll
+8638bcebe84be1982c430e05e6bcd72911f36e43: RasTls.dat
+5c54429b219614627a925347fa5006935a70d9d7: RasTls.dat decrypted
+----
+
+=== BackDoor.Farfli.125
+----
+736d8e03e40e245d4c812b091b5743fce855a529
+----
+
+=== BackDoor.PlugX.47
+----
+1acc85504c94707ac9c56a0ec23b49c4ca671c8a: fslapi.dll
+8f386b29d8d458df67f0a67c4e155827dcee68c9: fslapi.dll
+----
+
+=== BackDoor.PlugX.48
+----
+781831e8343d895aa4d9d95838eddda08a4673d8
+----
+
+== Network indicators
+
+=== Domains
+----
+www[.]pneword[.]net
+www[.]mongolv[.]com
+www[.]arestc[.]net
+www[.]icefirebest[.]com
+----
+
+=== IPs
+----
+103.43.16[.]183
+103.233.98[.]123
+107.183.203[.]235
+125.65.40[.]163
+144.48.6[.]235
+----

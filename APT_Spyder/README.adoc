@@ -1,0 +1,35 @@
+= Study of the Spyder modular backdoor for targeted attacks -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== BackDoor.Spyder
+----
+41777d592dd91e7fb2a1561aff018c452eb32c28
+cf584bd93d76f6546004fedb1fcf56888ced54b6
+e1fe3594da5466dd2e5a5713e885760d7e914b91
+8af7f35ec09ec77b5a9005a1fff0e22464f2ab7f
+699a7c59ab5b437badfaa90071d9fd9304fdcebc
+ff5b2bd36ae07d994c194ed0f38ed9357a018128
+d4bec278dda7c046739d5361eb51fd65f0fedfea
+4c871eae022c8088f6e8d46e17002cd0c0006650
+83e47dbe20882513dfd1453c4fcfd99d3bcecc3d
+----
+
+== Network indicators
+
+=== Domains
+----
+sidc[.]everywebsite[.]us
+snoc[.]hostingupdate[.]club
+wntc[.]livehost[.]live
+hccadkml89[.]dnslookup[.]services
+koran[.]junlper[.]com
+nted[.]tg9f6zwkx[.]icu
+sidcfpprx14[.]in[.]ril[.]com
+sidcfpprx01[.]in[.]ril[.]com
+sidcfpprx25[.]in[.]ril[.]com
+sidcfpprx10[.]in[.]ril[.]com
+----
+

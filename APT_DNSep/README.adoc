@@ -1,0 +1,72 @@
+= Study of the APT attacks on the Russian research institutes -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== BackDoor.Skeye
+----
+a259db436aa8883cc99af1d59f05f4b1d97c178b: acess.exe
+b0ff476e3a273af600840d0f3dcd099274035e76: skeye.exe
+----
+
+=== BackDoor.DNSep.1
+----
+14a652b5b9d71171224541ce2b950cf55da38190: ccL100U.dll
+f76ae6ee508cf22f52b8533d704667a1893860d9: (payload)
+----
+
+=== BackDoor.RemShell.24
+----
+fffec74a6330e25f97b687f989bb287aeb5fbb76: ftps.dll
+----
+
+=== BackDoor.Siggen2.3268
+----
+bfa1e457afbb1f160094f65b456503b64832d249: ssdtvrs.dll
+ce3fc5b40231b5a9dd4aeeb0f0c7ef6f7779c53e: ssdtvrs.dll
+----
+
+=== BackDoor.Farfli.130
+----
+b33e65fd1790260ad47a0dbdad2f12f555a0d6ca: Irmon32.dll
+----
+
+=== Trojan.Mirage.12
+----
+fc698eb0d7d6948605a7e5ba6708752b691a3fec: dnvdisp32.dll
+----
+
+=== BackDoor.PlugX.67
+----
+ad5fc8dfe8341d08c118abe72caa7cc8d40efa11: mcutil.dll.bbc
+----
+
+== Network indicators
+
+=== Domains
+----
+www2[.]morgoclass[.]com
+term[.]internnetionfax[.]com
+atob[.]kommesantor[.]com
+rps[.]news-click[.]net
+www1[.]dotomater[.]club
+ns02[.]ns02[.]us
+snow[.]swingfished[.]com
+skype[.]swingfished[.]com
+dog[.]darknightcloud[.]com
+eye[.]darknightcloud[.]com
+home[.]sysclearprom[.]space
+tick[.]sysclearprom[.]space
+atlas[.]golianbooks[.]com
+dm[.]golianbooks[.]com
+----
+
+=== IPs:
+----
+103.97.124[.]193
+103.91.67[.]251
+144.34.145[.]168
+185.70.185[.]231
+45.76.34[.]147
+----

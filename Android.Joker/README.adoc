@@ -1,0 +1,57 @@
+= Android.Joker on the Huawei AppGallery - Indicators of compromise
+
+== Samples
+
+[cols="2,5,3,3,6"]
+|===
+| Detection name | SHA-1 | Application name | Package name | Configuration
+
+| Android.Joker.531 | 2349b2c0238dcc52e072500ea402128de0a216cf | Super Keyboard | com.nova.superkeyboard | hxxps://superkeyboard.oss-ap-southeast-1.aliyuncs.com/
+| Android.Joker.531 | 0cfb4dd79fcfda7ecfcab7fd238f9f73ab8543d8 | Happy Colour | com.colour.syuhgbvcff | hxxps://happycolor.oss-ap-northeast-1.aliyuncs.com/
+| Android.Joker.531 | 443c73e1ee2cc7c9301ac4dfe14411762689baf5 | Fun Color | com.funcolor.toucheffects | hxxps://funcolortoucheffects.oss-ap-southeast-2.aliyuncs.com/
+| Android.Joker.531 | ddebecf001fd0c7ce03bf4a3eb7b6abe779f0d2d | New 2021 Keyboard | com.newyear.onekeyboard | hxxps://new2021keyboard.oss-ap-south-1.aliyuncs.com/
+| Android.Joker.594 | f1b49a444f554bb942fd8f5a9ff2a212d8db6247 | Camera MX - Photo Video Camera | com.sdkfj.uhbnji.dsfeff | hxxps://cameramx-photovideocamera.oss-cn-wulanchabu.aliyuncs.com/
+| Android.Joker.594 | 9dcc00513144612fdfcdb57278b2a54654b996ec | BeautyPlus Camera | com.beautyplus.excetwa.camera | hxxps://beautypluscamera.oss-ap-northeast-1.aliyuncs.com/
+| Android.Joker.658 | 3950c89eb27c973dce8c1c0ea3ae30baa0f7544e | Color RollingIcon | com.hwcolor.jinbao.rollingicon | hxxps://colorrollingicon.oss-cn-huhehaote.aliyuncs.com/
+| Android.Joker.659 | 9d2337047ca59d1375c898cf7d0361fe56c3576c | Funney Meme Emoji | com.meme.rouijhhkl | hxxp://funneymemeemoji.oss-ap-southeast-5.aliyuncs.com/
+| Android.Joker.660 | 57148c6e040fb15723e5ca040740ae8901fd2dae | Happy Tapping | com.tap.tap.duedd | hxxp://happytapping.oss-cn-qingdao.aliyuncs.com/
+| Android.Joker.662 | fb184efe017debc57eba118ab7aee17fd946e1ec | All-in-One Messenger | com.messenger.sjdoifo | hxxps://allinonemessenger.oss-cn-shenzhen.aliyuncs.com/
+|===
+
+=== Android.Joker.242.origin - decrypted payload
+----
+a1a6eea1397dbdc89618dad549ac81bf896747a1 - sdkplugin001.apk
+4fff23f587ac5891a207844e34cb442e45abda15 - sdkplugin002.apk
+91315f824341b8b27e9f32c36dbdb77c4808f1b4 - sdkplugin003.apk
+7f12bf4edc5492c8d867753ca6f61f19a3007f53 - newSysSdkplugin001.apk
+e442a5b7fda81746ec6a6f4597d867859369076a - newSysSdkplugin003.apk
+65624632270075109bc65ccee7101c121466b47f - newSysSdkplugin006.apk
+75d4aee6b254afd0984fcfc5def2c41f2613c287 - newSysSdkplugin007.apk
+----
+
+=== Domains
+----
+hxxp://novasdk.oss-cn-beijing.aliyuncs.com/
+hxxps://ad.mobnv.com/
+----
+
+
+=== Samples from Google Play with the same payload.
+
+[cols="2,5,3,3,6"]
+|===
+| Detection name | SHA-1 | Application name | Package name | Configuration
+
+| Android.Joker.592 | 1ed1c87bbf34c377a978c6bea3591216eecc7add | Funny Color Test | com.dusw.funtes | hxxp://api.lemonmanga.com/
+| Android.Joker.614 | c87cf64419c60d3fa538881d4f3b928bfa554550 | Voice Changer with Funny | com.changer.voice.funappjokes | hxxp://gp.fortunnecat.com/
+| Android.Joker.617 | 01fd0eb92677e6a7afb889bf2d70537d35e1ed09 | Rolling Icon Plus Fun | com.rollingworld.iconplus.comfun | hxxp://gp.fortunnecat.com/
+| Android.Joker.619 | 56bd7e1b702b2e80383071e2a8ab3367ba5a2fd7 | Deep Keyboard pro | com.keyborada.emoji.pokimon | hxxp://deepkeyboardpro.oss-cn-hongkong.aliyuncs.com/
+| Android.Joker.620 | c8453fef3b7435ea1ebb0956908bc27547a7ecc1 | Story Teller with Cute Layout | xa.photocc.opd_collage | hxxp://router.cutebubblegame.com/
+| Android.Joker.621 | c0db92460ef93edfe2e580dd90d6356300fa4515 | Smart Designed Keyboard with Emoji | com.des.keyboardros | hxxp://router.cutebubblegame.com/
+| Android.Joker.622 | b23e935ab53f3b327dc65738533ee45ad597bb4c | Smart Background Eraser | com.times.backgiydnoty | hxxp://router.cutebubblegame.com/
+| Android.Joker.623 | 6a3e9aef77df2365cd832ad67d89bf7eff88252f | Photo in Motion and Moving Picture | com.deotech.phots.poxtionas | hxxp://gp.fortunnecat.com/
+| Android.Joker.624 | 25f975b826d1a44ccbf42f1502ca3a6c2dc0eec7 | PIX Photo Motion Maker | com.photoxmotio.animateions | hxxp://gp.fortunnecat.com/
+| Android.Joker.630 | 84e2587ce7049519cb129d48f57d7157219c461b | Shape Your Body Magical Pro | com.camerasideas.collagemaker | hxxp://welcome.baltergames.com/
+| Android.Joker.632 | 3c9825ac8e3d0045fbd216de8555f4d66f6f3cea | Assistive Touch Control Centre | com.kong.toouch.ass.iphoea | hxxp://welcome.baltergames.com/
+| Android.Joker.633 | 1ed179ccd62aeab9d095041c42dd3d274dda291a | Smart Computer Style Launcher | com.windowspl.launcherwith | hxxp://welcome.baltergames.com/
+|===

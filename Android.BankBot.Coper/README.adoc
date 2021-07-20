@@ -1,0 +1,70 @@
+= Android.BankBot.Coper banking trojan targeting Colombian users ― Indicators of compromise
+
+== Samples
+
+=== Main apk packages (droppers)
+
+|===
+| Detection name | SHA-1 | Package name
+
+| Android.BankBot.Coper.3.origin | 0a1fcf7720a15927bee247448937b2d69d19db22 | com.boatfront0
+| Android.BankBot.Coper.4.origin | 003f9bcad39c565d76cf9be5aec1ac3df4cedeec | com.readmusic63
+| Android.BankBot.Coper.4.origin | 61100e17aae89c9763ac491b5fb7c550d746f062 | com.livetable88
+| Android.BankBot.Coper.4.origin | be08992e34f65a47a05ae3fddb55fb4040777431 | com.outway5
+| Android.BankBot.Coper.1 | 9ee6d59459a879d7a07e129b93e85b24e2515bd6 | com.getsimple26
+| Android.BankBot.Coper.3 | f428883573da2e1ded844ad6c79ee1356b0e6264 | com.lookfeetudnl
+|===
+
+=== Decrypted dex files (Android.BankBot.Coper.2.origin)
+
+----
+0d9873338ea86d5904e521ad6e240c932cf5999e
+0f72d7bafb1ddfd57ce1c9533c9244fc59d17fe6
+d736ccc9adebd31d5f34d641b6bf4fce88bdf7d4
+e1a7139878cd55875f570a755d2750fad2038c77
+d689039c533ad29dfe7dc16b94a8966d79181ea7
+3374ce9735195e3646d4ef769bab2ef65dbe7176
+----
+
+=== Decrypted apk packages (not packed)
+
+|===
+| Detection name | SHA-1 | Package name
+
+| Android.BankBot.Coper.1.origin | d292ec3050df57f09a55c0fd3b3e7237e83eccf7 | com.usold9
+| Android.BankBot.Coper.1.origin | d07a7e80a7dfda036173237f89bd3a249da931ae | com.pointstorymyer
+| Android.BankBot.Coper.1.origin | c1964942459e99cd0bf52b1a724163874fa99dd2 | com.worktreegd
+| Android.BankBot.Coper.1.origin | a0c2d20e68afe6bffdb6c7b9afcbba657357ea44 | com.seeturn9
+|===
+
+=== Decrypted apk packages (packed)
+
+|===
+| Detection name | SHA-1 | Package name
+
+| Android.BankBot.Coper.2 | 329c2e94e8c95a0d588fed72ea7e53fe21ea7837 | com.lineanysl
+| Android.BankBot.Coper.4 | fe6673b28888d22b1d3181e26b5e708d96d3f602 | com.frontbynpxa
+|===
+
+=== Decrypted Android.BankBot.Coper.1.origin
+----
+f2de6a855f04a0f5e0999c5b413347adaa1197e2
+62d731ab9f40470e649a51b8d7e61af61f23cd8b
+----
+
+== Network indicators
+
+=== Domains
+
+----
+sportsstyle.club
+fitnessstyle.xyz
+4-u.wtf
+----
+
+=== IPs
+
+----
+18.217.36.170
+45.76.35.31
+----

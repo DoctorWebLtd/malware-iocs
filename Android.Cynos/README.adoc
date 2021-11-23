@@ -1,0 +1,197 @@
+= Android.Cynos on the Huawei AppGallery ― Indicators of compromise
+
+== Samples
+
+|===
+| URL | App name | Package name | SHA-1
+| http://appgallery.huawei.com/#/app/C102937601 | 3D City Hunting | com.sns.csls3d.huawei | 8b1de0c1fdea45ff8f4ae250307c0a8f69c3d426
+| http://appgallery.huawei.com/#/app/C103277985 | 3D Cartoon man Parkour | com.szlh.zhebushikualan.huawei | f70f195fd9deffbde2ee812c93b327d07e18443f
+| http://appgallery.huawei.com/#/app/C103662071 | 3D City Wild Racing | com.zjld.tejimotuoche.huawei | fda4bc7b3883b3db3df13b0e1b07ad53bbe22a4d
+| http://appgallery.huawei.com/#/app/C104481373 | 3d Man action run | com.zjld.zbsklmar.huawei | e6024ce99966f4ecaff0efdae7781d9d448b2c79
+| http://appgallery.huawei.com/#/app/C104633441 | Ace of sky hero | com.hsrj.zhandoujiash.huawei | e5ed0eda9513f41b5c9ebd7b14529180a4e5d822
+| http://appgallery.huawei.com/#/app/C104684815 | Acrobatics diving training | com.zjld.xytsadt.huawei | d4c1b4b2a65279b768338f2c0d12b695572b101b
+| http://appgallery.huawei.com/#/app/C103622351 | Adventures of Magical Girl | com.yly.mengdongjielong.huawei | 532b2d05f528ee68a1f89d02fa2477a8fac7c88b
+| http://appgallery.huawei.com/#/app/C104374449 | Airplane master | com.hxy.fzfjam.huawei | fec03ced8741a8241fcb5f272ede566a634ba539
+| http://appgallery.huawei.com/#/app/C103616693 | All-Star Basketball Championship | com.cchl.guanlandazuozhan.huawei | f4b9517b19f8c4cee7295f653dca4af8f9e62a13
+| http://appgallery.huawei.com/#/app/C103768237 | almighty carry company | com.ccsk.quannenglaosiji.huawei | d4a1e722adda57f72f9daafdfd338630b48ae55f
+| http://appgallery.huawei.com/#/app/C104284813 | Ancient escape | com.yly.ywscae.huawei | 5599dfea0b274e4edbfdabad72d68e271b99e72d
+| http://appgallery.huawei.com/#/app/C103895857 | Anti-terrorism actions | com.xstk.csata.huawei | aeb5f642538bfdf6b2a8eb5cf3214035a634506f
+| http://appgallery.huawei.com/#/app/C103562987 | Anti-terrorist police battle | com.sns.qingsongduobi.huawei | b1112a4847c4006f126f0a5ab08b191df039adb7
+| http://appgallery.huawei.com/#/app/C103623983 | Ants survive in the wilderness | com.cchl.mayishengcunmoniqi.huawei | fb1b5402a51ebc00b17670d6e6b49dba28d36704
+| http://appgallery.huawei.com/#/app/C103171043 | Armed air attack at sea | com.zjld.jisulingyun.huawei | f05119b12fc28aca89f48b5a939d6e1928c04bc6
+| http://appgallery.huawei.com/#/app/C103562027 | Armed escort prisoners | com.hs.wuzhuangyajieqiufan.huawei | 7bf6516b2176363de9d7a7993445ede9f697260d
+| http://appgallery.huawei.com/#/app/C104457167 | Armed shooting raid | com.hxy.csasr.huawei | c4f1405bba22826a69e94ef20763cb664bc3b44c
+| http://appgallery.huawei.com/#/app/C103233993 | Armed zombie Tower Defense | com.cchl.baoweixiangrikui.huawei | c30291b34ec74128196612b0a80034424de2ea67
+| http://appgallery.huawei.com/#/app/C104338383 | Army car transport prisoners | com.sns.wzyjqfactp.huawei | f56151b7fd4096f73574717075f6c08e32ff4765
+| http://appgallery.huawei.com/#/app/C104661821 | Assassination Sniper | com.xstk.yjbzas.huawei | fca6cb15168ac7b256da4bbb442cf93050981b61
+| http://appgallery.huawei.com/#/app/C104338933 | Assassination time 3D | com.hsrj.yjbzat.huawei | 78e48efac48d7ed9ea53a7a7df294da0a97de066
+| http://appgallery.huawei.com/#/app/C104143713 | Battle of tanks | com.zjld.xintankebot.huawei | c80fee5ffccf9ce85ff15b7d085d700ae70aef98
+| http://appgallery.huawei.com/#/app/C104694107 | Battlefield assault team | com.yly.csbat.huawei | 4a4abab1e69ef629c1c622fd3be280c013e4e9fd
+| http://appgallery.huawei.com/#/app/C104173375 | Beach ambulance | com.hsrj.htjydba.huawei | b860d5303d8921fed08c5e374483ac127ee2385e
+| http://appgallery.huawei.com/#/app/C104735997 | Beach Emergency team | com.cchl.htyjxz.huawei | b936c97eb91bf6071aa38ead5fb5b8ce11d9a0c1
+| http://appgallery.huawei.com/#/app/C104516919 | Beach rescue driving | com.sns.htjydbrd.huawei | 38ab82696f45fdf52c04d3ba760e8b752b07df6d
+| http://appgallery.huawei.com/#/app/C104151447 | Beat the buddy | com.szlh.mtcrbtb.huawei | a4dbe44e0cbef5db32651050189848e9207e28ed
+| http://appgallery.huawei.com/#/app/C103162445 | Brave Ninja saves Princess | com.zjld.jiantoudaren.huawei | 1a17dd8b6bb1a08ab53b2d096535d251a8d7a8cb
+| http://appgallery.huawei.com/#/app/C104859673 | Bumper Car Arena | com.hsrj.debibca.huawei | 81ae7a0fac2f385b2984669356d92cf7e807fbb7
+| http://appgallery.huawei.com/#/app/C104621857 | Busy road driving | com.cchl.jyztcbrd.huawei | 7795827b9feb3e6d8a86f30a48686d3fe816ab30
+| http://appgallery.huawei.com/#/app/C104276919 | Car battle ground | com.xstk.kbphwcng.huawei | 6c748786e3d18321b7e2f6c64b578ecb310d5b82
+| http://appgallery.huawei.com/#/app/C103920731 | Car destruction war | com.yly.kbphwcdw.huawei | 195bad41d7c0cee3a388ec072353e9b62c923c67
+| http://appgallery.huawei.com/#/app/C103920329 | Car drive master | com.zjld.jcddcdm.huawei | 664e47cebb0464339d5e75efb4279c1fa86e131a
+| http://appgallery.huawei.com/#/app/C103955065 | Car merge shooting | com.szlh.xxlpdcms.huawei | f57efc2ee390c43d42dde0e6dde81a2c5dd1958b
+| http://appgallery.huawei.com/#/app/C104402277 | Car shooting defend war | com.yly.xxlpdcsdw.huawei | 6cc4c02dc12afeadd1e1c41f5a55f9be35aeca72
+| http://appgallery.huawei.com/#/app/C104114723 | Cat adventures | com.hxy.xmlxjca.huawei | 18558dca2734d6b098d91d570e0ca13623e0a851
+| http://appgallery.huawei.com/#/app/C104415377 | Cat cute diary | com.szlh.xmlxjccd.huawei | aa2f1784fe24b564fdeb577a340d439661db1571
+| http://appgallery.huawei.com/#/app/C103823729 | Cat game room | com.hs.xiaomaolixianji.huawei | 79ddb48ac25eb392c9e92dc44d32bbc522e19fae
+| http://appgallery.huawei.com/#/app/C104429049 | City car parking test | com.sns.jyztcccpt.huawei | 30abca107e63b3858bc661f27e2ab56ee3fbb471
+| http://appgallery.huawei.com/#/app/C104709967 | City driving master | com.szlh.jcddcdm.huawei | cb7d260684c212c04c39bc96e6e7c4b91c62b516
+| http://appgallery.huawei.com/#/app/C103530805 | City Fire Hero | com.szlh.kachejiashimoniqi.huawei | 8cce3b7c41a185919c4e7735176087b2e503741e
+| http://appgallery.huawei.com/#/app/C103920083 | City luxury car racing | com.zjld.hbfcclcr.huawei | cfc35d28dad612e515a5f90a91fc7b33bcf7d7d6
+| http://appgallery.huawei.com/#/app/C104377509 | City mad drift | com.hsrj.piaoyicmd.huawei | fac857b82698fbfe0703a589547b786a15550d30
+| http://appgallery.huawei.com/#/app/C104662137 | City moto racing 3D | com.xstk.motuocmr.huawei | 24f9cec9090f89511ef832f0fc91f03becfd068e
+| http://appgallery.huawei.com/#/app/C104376897 | City moto speed battle | com.cchl.motuocmsb.huawei | 8b92f9eb20ecec1b2ebb64ad182bc03978c7914c
+| http://appgallery.huawei.com/#/app/C102902799 | City Overtake Racing | com.sns.csccs.huawei | dbda535b5f4b4ad0be5beff735a3d874fa928a83
+| http://appgallery.huawei.com/#/app/C103536917 | City police run | com.ccsk.quanmintiaoyue.huawei | dee6c5efc0c742d98fceec5a7db459e85b45133f
+| http://appgallery.huawei.com/#/app/C104402467 | City props drag racing | com.sns.ttbccpdr.huawei | 38d90ca290c3e9f4b81d56827b1ae785c9acfd17
+| http://appgallery.huawei.com/#/app/C103432971 | City Stickman Hero | com.szlh.huochairenshengsuo.huawei | 47318a439e6cab2f03533237554d54c20f7aebb7
+| http://appgallery.huawei.com/#/app/C103489571 | City street racing | com.yly.chengshijietousaiche.huawei | 0b04b58b75e3177955b018fafdf30ab85333a1f9
+| http://appgallery.huawei.com/#/app/C104588607 | City timing racing | com.yly.piaoyictr.huawei | a121b13069cdf1b49b23c5e6ae661b733d828a39
+| http://appgallery.huawei.com/#/app/C104172553 | Cliff diving | com.ccsk.xytscd.huawei | 447ef6268110c38d2b877b24dd0aca64fb2a945d
+| http://appgallery.huawei.com/#/app/C103630117 | College Bully Fighting Contest | com.yly.jinjidezhengtai.huawei | ed9f831374d3bef343b4ac3b0e133c87728b58a8
+| http://appgallery.huawei.com/#/app/C104740819 | Composite driving race | com.sns.zhsccdr.huawei | b92a05e0f4272adde5a8027326f80a27bf33d082
+| http://appgallery.huawei.com/#/app/C104120419 | Construction truck simulator | com.cchl.chanchects.huawei | 47849d36529860621e0ee70b090394673e8ab318
+| http://appgallery.huawei.com/#/app/C103554917 | Construction vehicle simulator | com.hs.gongchengchejiashimoniqi.huawei | 32cddb97ea43abea7038c32943eaa9261b0960b7
+| http://appgallery.huawei.com/#/app/C104374255 | Dead battlegrounds | com.hxy.jssjdbg.huawei | ad7a2d73c7ab4617820ceb9275775985b0ea9338
+| http://appgallery.huawei.com/#/app/C104386329 | Deadly zombie killer | com.zjld.jujijsdzk.huawei | 562d32c7164f0eb03708cbbd95e05773eb7c9dd7
+| http://appgallery.huawei.com/#/app/C104429535 | Delicious restaurant | com.hsrj.djcsdr.huawei | 5631cb845fe82159d956e1706369b97f3c926895
+| http://appgallery.huawei.com/#/app/C104503615 | Dino Island survival | com.ccsk.ywscdis.huawei | 761d1ddf7a1c154151fd1063e8bf0360fc55321b
+| http://appgallery.huawei.com/#/app/C103483157 | Doomsday Sniper | com.sns.shouhujiayuan.huawei | faa4f1155864f9b608155a9f88d6f03dfd8a8210
+| http://appgallery.huawei.com/#/app/C104609495 | Drifting speedlegend | com.ccsk.zhensaicheds.huawei | cb937b3451084f6d2234141e6ce99cddd3793b82
+| http://appgallery.huawei.com/#/app/C104456551 | Drive danger zone | com.hxy.kbphwddz.huawei | 9a812007f569919aafc9d3a2fd6a6ca1d74b6811
+| http://appgallery.huawei.com/#/app/C104276697 | Drive school simulator | com.hxy.jcdddss.huawei | a3a35029a7117ed4f27ed75918c65751743d40d6
+| http://appgallery.huawei.com/#/app/C104114299 | Easy driving simulator | com.hxy.jyztceds.huawei | c4db10ee573129d137049fe91dec109dc8e2a5bc
+| http://appgallery.huawei.com/#/app/C103955747 | Endless road racing | com.szlh.ttbcerr.huawei | 10861b6024523a5565d6db7e368686389afeac1a
+| http://appgallery.huawei.com/#/app/C103716779 | Escape Jurassic | com.szlh.yewaishengcun.huawei | 92fbf61b4a4b7f3abefd381a15843a34521eb6ed
+| http://appgallery.huawei.com/#/app/C104314919 | Escape terror nun | com.szlh.xiunv.huawei | b6c4c01c309533735c4667854a28ad850471d2ae
+| http://appgallery.huawei.com/#/app/C103383625 | Evil taste snake | com.ccsk.qiguaideshe.huawei | 1b72cf9c2cc8bb9af967d450c23cc5f8bd2c4698
+| http://appgallery.huawei.com/#/app/C104428255 | Evil tower | com.ccsk.chaitaet.huawei | db72c401cd93981689a982a1ee1d028aa451f8f4
+| http://appgallery.huawei.com/#/app/C104525075 | Extreme diving master | com.hsrj.xytsedm.huawei | daceb5776ba8bce6320854608e1a63ef6c2046ba
+| http://appgallery.huawei.com/#/app/C104744845 | Fantasy adventure | com.hsrj.yijiaotufa.huawei | b1e59c622ee3379953e0127ab25a0a73cc508a06
+| http://appgallery.huawei.com/#/app/C103243051 | fast knots master | com.szlh.jiujieta.huawei | a40beed049277026a0f0eb0d051c9defadca8f86
+| http://appgallery.huawei.com/#/app/C104263663 | Firefighter simulator | com.cchl.xfcfs.huawei | 6de7ebf6a098b446dba0ac72e347dc4cc186d243
+| http://appgallery.huawei.com/#/app/C104597115 | Forklift driving simulation Ads | com.szlh.chanchefds.huawei | f01974eeeec43182b5a17f4753245389794b9e54
+| http://appgallery.huawei.com/#/app/C104500443 | Free driving championship | com.szlh.zhscfdc.huawei | 5136560049eb1740325494aa708937515cbc0668
+| http://appgallery.huawei.com/#/app/C104174023 | Future survival challenge | com.hsrj.wlsctzfsc.huawei | 2ab5263be3b11a343744cc46552ee770ea977f9a
+| http://appgallery.huawei.com/#/app/C103541409 | Gangster City Shootout | com.ccsk.yuanhejinfengbao.huawei | f0d91494d8c6dce16e5e3ab2f5771e865d773e51
+| http://appgallery.huawei.com/#/app/C104710313 | Gangster crime legend | com.szlh.gtagcl.huawei | 78d114cf22fffc67c744ee80ff133008a0397099
+| http://appgallery.huawei.com/#/app/C103956429 | Gangster evil city | com.sns.mtcrgec.huawei | 20470de1ef944de2a7918ca17002f33c9df177cd
+| http://appgallery.huawei.com/#/app/C104551903 | Gourmet chef | com.xstk.djcsgc.huawei | dd2f7b303c80aee38c71bcbf7dd62dd57ea5fcd1
+| http://appgallery.huawei.com/#/app/C104785369 | Gunfight elite | com.hxy.zuihaoshejige.huawei | f2643a0b517b51c7c18a3e6c853b736e6b0adf28
+| http://appgallery.huawei.com/#/app/C104668813 | High speed championship | com.hxy.gdschsc.huawei | c42b5e86ee2d1c01fb210566d296a016ce31ef57
+| http://appgallery.huawei.com/#/app/C103709043 | Home defend battle | com.szlh.jiqirenduizhan.huawei | d5dc75912e039d95a5723f1d17fdd59fafb2e1ec
+| http://appgallery.huawei.com/#/app/C104609347 | Hope of doomsday | com.ccsk.jujijshod.huawei | 24105bc679bca09964593f768f334ca25a833a5e
+| http://appgallery.huawei.com/#/app/C103144599 | Hostage rescue operation | com.yly.yjbz.huawei | 2edd4fc0d2b7bc3ac7e56e74a3baf58f36272b85
+| http://appgallery.huawei.com/#/app/C103250285 | Hot Crash Racing | com.cchl.huitiaoyuedeqiche.huawei | 394111215a381baef07ab43f7e343f9b4b451db2
+| http://appgallery.huawei.com/#/app/C104314609 | Influencer dress up master | com.szlh.wanghong.huawei | 582a02e0a5d98c2970a524f6ca97c13d8c4defc0
+| http://appgallery.huawei.com/#/app/C104385157 | Island survival guide | com.xstk.haidaoisg.huawei | d294206a3760ea7c823d2b669dc76cd23a0781a2
+| http://appgallery.huawei.com/#/app/C103248961 | Lethal gun battle of pixel man | com.sns.feiyuedamaoxiany.huawei | d10a7da60bffee2786d570112fa5d6e0ca6c62da
+| http://appgallery.huawei.com/#/app/C104384573 | Living dead battlefield | com.xstk.yqdjsldb.huawei | 587d0c9138a53b327afe69c090bf977757551bd3
+| http://appgallery.huawei.com/#/app/C104010165 | Luxury car city racing | com.hsrj.gdsclccr.huawei | b4c11c9c19e53285ab245da6529bb9adb1faedc4
+| http://appgallery.huawei.com/#/app/C104685257 | Luxury car crash simulator | com.zjld.kbphwlccs.huawei | b69c0291251be552c6c9ff8161abc0c5d7323c75
+| http://appgallery.huawei.com/#/app/C103499657 | Luxury car racing | com.zjld.guadangsaiche.huawei | 8d5f8c2f4ba3230fa927d497b9160294058658e5
+| http://appgallery.huawei.com/#/app/C103432959 | Luxury car racing Hurricane | com.hs.haohuamotuoche.huawei | 553676688a6c0c4cde71ee2b2639ef4d14a29bd4
+| http://appgallery.huawei.com/#/app/C104469559 | Luxury car ultimate speed | com.cchl.gdsclcus.huawei | 0cf0b20ab0664443e77ca3202d058b270b8dc2aa
+| http://appgallery.huawei.com/#/app/C104524785 | Mafia crime city | com.hsrj.gtamcc.huawei | 77d9e5da03e66bf7d4fc96c55d5e1283f67e870d
+| http://appgallery.huawei.com/#/app/C103516885 | Master pilot | com.szlh.fangzhenfeijijiashi.huawei | 0fa877a17adf054ad5dfb4df07a66954057417f2
+| http://appgallery.huawei.com/#/app/C104263145 | Metal dead mission | com.cchl.hjdtmdm.huawei | f2742710a4d6aec0fddda234101159b4111fab3c
+| http://appgallery.huawei.com/#/app/C102902777 | Metal Slug Armor | com.sns.jsdtzj.huawei | a0cb1232a1bcff9a16ea0a409f42b7ed6dab8aae
+| http://appgallery.huawei.com/#/app/C104277411 | Midnight Speed Race | com.xstk.gdscmsr.huawei | 00f5d3e40216842c107456f81008b355175418bd
+| http://appgallery.huawei.com/#/app/C103777397 | millionaire simulator | com.sns.woyaodanglaoban.huawei | e7ad32238c612b3905ba4362f5e4c38b7cd8cbe6
+| http://appgallery.huawei.com/#/app/C104744949 | Motorcycle city free driving | com.hsrj.nmotuomcfd.huawei | 391eed9c22041677d311f912212f6b49dd716980
+| http://appgallery.huawei.com/#/app/C104517329 | Motorcycle lethal racing | com.sns.motuomlr.huawei | 64be16a6c0f829515f2049e6e5ab31b6200f4440
+| http://appgallery.huawei.com/#/app/C104284495 | Naval battle age | com.yly.gzdzznba.huawei | d99d8e5c70f867492e9908ddac09f43f7393266c
+| http://appgallery.huawei.com/#/app/C103247935 | Ninja Legion place battle | com.hs.tuanjierenzhe.huawei | 245778ef52e511ce3d317247a80f1f42c3160d66
+| http://appgallery.huawei.com/#/app/C104469713 | Ninja rescue master | com.xstk.jtdrnrm.huawei | ddd820fe425d143298e6a2d5358c000ef129b841
+| http://appgallery.huawei.com/#/app/C104740673 | Offroad driving simulator | com.sns.panshanods.huawei | e6127854280c8ed57b02e31ae6b92691e721902e
+| http://appgallery.huawei.com/#/app/C104622045 | Operation firewire | com.sns.zuihaosheji.huawei | 0d5c4057b6a1e08d0b90158453a27fc3c4a5be43
+| http://appgallery.huawei.com/#/app/C103892267 | Operation Snipe | com.hxy.yjbzos.huawei | 84aaa479668304a8c886e110bb945980362edc72
+| http://appgallery.huawei.com/#/app/C103773473 | Parking simulator | com.ccsk.jiayouzhantingche.huawei | e8bd8be32ed3aebe83ab17f64bc96aa8cd62618c
+| http://appgallery.huawei.com/#/app/C103826211 | Perfect kitchen | com.cchl.dingjichushi.huawei | 6f9b0f0a0fae1e8da1b45c792565030832baac3d
+| http://appgallery.huawei.com/#/app/C104715533 | Pilot test simulator | com.ccsk.fzfjpts.huawei | 1dc9041c623175e62b793499f877dcdbe6c7a02d
+| http://appgallery.huawei.com/#/app/C104010037 | Pirate Island Survival | com.ccsk.haidaopis.huawei | 2f43b0a927c6127d8d1c3a920876b853c2b703ad
+| http://appgallery.huawei.com/#/app/C103489913 | Pirate island wild survival | com.hs.zuihoudehaidao.huawei | 61776ecc091a7097162ea59f0d870d718052fb75
+| http://appgallery.huawei.com/#/app/C104480805 | Pixel battleground legend | com.zjld.xsrpdpbl.huawei | 5a9211ccec1a1a2cf78a9af6ed6d2ee891994cf7
+| http://appgallery.huawei.com/#/app/C103895545 | Pixel city survival | com.xstk.xiangsuchijipcs.huawei | 08126e7c6dbe785d9d7ab62f2682a62f8b629351
+| http://appgallery.huawei.com/#/app/C104596969 | Pixel conflict battlefield | com.szlh.btlxjpcb.huawei | 3c98fc7efe6685bf258fb592b268f97ecb04db72
+| http://appgallery.huawei.com/#/app/C103923171 | pixel desperate fight | com.yly.xsrpdpdf.huawei | ee21e5dc0bc9fd97a4f6b8f0f5600fb698005806
+| http://appgallery.huawei.com/#/app/C103302997 | Pixel field survival gun battle | com.sns.mhbaoshidazuozhan.huawei | fa259b2332c3df5b49bf39442e0a0823efda8103
+| http://appgallery.huawei.com/#/app/C104669165 | Pixel killer city battlefield | com.hxy.xsrpdpkcb.huawei | 892d2575d5780703ff537f14d9dbd99a9c8fc343
+| http://appgallery.huawei.com/#/app/C104322121 | Pixel mad battle royale | com.ccsk.xsrpdpmbr.huawei | 0418c85691260d9f5bf97da4287a20a94197d724
+| http://appgallery.huawei.com/#/app/C104587691 | Pixel man city shooting | com.zjld.xiangsupmcs.huawei | e4be4c31d4a086510a8228bdca0e912f9bd501ef
+| http://appgallery.huawei.com/#/app/C104633213 | Pixel monster war | com.hsrj.guaishoupmw.huawei | b5f60efdfe0f3ababb21a60165b9cf875760816b
+| http://appgallery.huawei.com/#/app/C103406413 | Pixel multiplayer battle royale | com.zjld.bentulixianji.huawei | d22dba8ed5cca602fcb3671fcd75bccf73893626
+| http://appgallery.huawei.com/#/app/C103956069 | Pixel shoot battle ground | com.sns.btlxjpsbg.huawei | e121ac6bc76790ba5188985e4e6796059c706385
+| http://appgallery.huawei.com/#/app/C104385643 | Pixel shooting battlefield | com.zjld.xiangsuchijipsb.huawei | fedbbf0414a4c71d66cccabe52afcca3180a7c0b
+| http://appgallery.huawei.com/#/app/C104573043 | Pixel shooting world | com.hxy.xiangsuchijipsw.huawei | bef0706efeebbd244aef756e7aefb2b3c3830eae
+| http://appgallery.huawei.com/#/app/C104428475 | Pixel wilderness shootout | com.ccsk.btlxjpws.huawei | dcdcbed79aa270cdf65b857f940cc74c15157bf0
+| http://appgallery.huawei.com/#/app/C103459463 | Pixel Zombie Doomsday Disaster | com.sns.jiangshiyefengkuang.huawei | 8a294c8557cdb00ce277a36a5fe5242de907894e
+| http://appgallery.huawei.com/#/app/C104284303 | Primal smash fight | com.zjld.ttlxdzzpsf.huawei | 741fa91c2be3093e6edfc553a51038eceb0368ba
+| http://appgallery.huawei.com/#/app/C102402091 | Primitive people fight in disorder | com.hsrj.rsrdld.huawei | fc39865027a95e8a72fdef44dd5fcd879336bef8
+| http://appgallery.huawei.com/#/app/C104694047 | Prisoner escorted driving | com.yly.wzyjqfped.huawei | 8d86ca23d20d8185009b35e1ec66f130b99cc03a
+| http://appgallery.huawei.com/#/app/C104264009 | Racing mania | com.hxy.zhscrm.huawei | b5f93f3162ebf4bfa2f60c38e1e0faceb9516c92
+| http://appgallery.huawei.com/#/app/C102913833 | Racing Road Shooting | com.sns.scglsj.huawei | 36366fb656378c21fc24651383a16e5e8f5937ed
+| http://appgallery.huawei.com/#/app/C104115907 | Real airplane pilot | com.xstk.fzfjrap.huawei | 276fbd448ffa8071def70d6043c4a823093b0d0c
+| http://appgallery.huawei.com/#/app/C104401657 | Real vehicle driving master | com.yly.chanchervdm.huawei | f70b2faa1f34ba0318bc4b08235f88ad7a0967cd
+| http://appgallery.huawei.com/#/app/C104503885 | Real war front sim | com.ccsk.bingrenrwfs.huawei | 626d2d93f70b55c5440ff49d641bfdec9cacd04b
+| http://appgallery.huawei.com/#/app/C104120063 | Revenge zombie invasion | com.xstk.jssjrzi.huawei | 0675e69a6ea1a212a2a93ef8a1fc8b1201d7ab89
+| http://appgallery.huawei.com/#/app/C104337727 | Rome defense | com.hsrj.luoma.huawei | a82f2fa8b97a864fa1cd701a4ff57b640ef5f6a0
+| http://appgallery.huawei.com/#/app/C104500319 | Royal sniper | com.szlh.yjbzrs.huawei | d5e48f2d7127b8f90d268968367f2f51be1583a5
+| http://appgallery.huawei.com/#/app/C104010351 | Run guys | com.hsrj.zbsklrg.huawei | 107c84e8727a42815d67b56ff7cdfb15d36ac06d
+| http://appgallery.huawei.com/#/app/C104143439 | Save the princess | com.yly.jtdrstp.huawei | 7ec611a45b59c9797416d0902a6ca5282487fe50
+| http://appgallery.huawei.com/#/app/C104144211 | School fighter | com.zjld.xygdsf.huawei | 4ee80638496df3873bd10d5cd601e6deb475f5c1
+| http://appgallery.huawei.com/#/app/C104551477 | School Kung Fu show | com.xstk.xygdskfs.huawei | 0924d1455f80434dffa110d05fea6735f09c6e20
+| http://appgallery.huawei.com/#/app/C104469969 | Secret transfer mission | com.xstk.wzyjqfstm.huawei | d8f274f22d55fc0a4d7a515b99a5991ca1deb6ff
+| http://appgallery.huawei.com/#/app/C104322275 | Shoot it down | com.ccsk.jidayiqie.huawei | e65dcb0e3ebb5b95fffb8d45f7145ce185f610e1
+| http://appgallery.huawei.com/#/app/C104785529 | Sky FireWire battlefield | com.hxy.feijishejisfwb.huawei | 1ada19c422266ae7e29b1efb0e185c1d7d4762aa
+| http://appgallery.huawei.com/#/app/C103763951 | Soldiers set war | com.sns.ArmyBattle.huawei | 17c8331ff2fd450d2ab8c8c0dd2e6c2df306cb41
+| http://appgallery.huawei.com/#/app/C104735483 | Soldiers united battle | com.cchl.bingrentjzy.huawei | bd4b2cb225c45ef1095892e4b4a136d4524a751c
+| http://appgallery.huawei.com/#/app/C104810215 | Space Escort | com.zjld.zhandoujise.huawei | bef6cff2df62b4a5db8fa94149a66b12eb625096
+| http://appgallery.huawei.com/#/app/C104622153 | Special forces fire mission | com.sns.feijishejisffm.huawei | e0a4240ee150654ac3976aaa135856a39bf26a8c
+| http://appgallery.huawei.com/#/app/C103700205 | Spider Stickman City Battle | com.zjld.huochairenshengsuo.huawei | 37358755e8a65025662726eaedcd9138ac3dbd2a
+| http://appgallery.huawei.com/#/app/C104483841 | Spider superman city hero | com.yly.hcrssssch.huawei | 4a038648bf6b5f8f5fc3383f16465d799c9d987b
+| http://appgallery.huawei.com/#/app/C104415455 | Steel tank chaos battle | com.szlh.xintankestcb.huawei | b02424c6e3b561c12526dc2fcc222c7ca03aeb4e
+| http://appgallery.huawei.com/#/app/C103458831 | Stickman battle zombies | com.cchl.jiayuangongfangzhan.huawei | 5d6e0071b7ec7dc1779a97c92ede41045afa89f0
+| http://appgallery.huawei.com/#/app/C104711591 | Stickman city legend | com.ccsk.hcrssscl.huawei | 9342d3d66b2098663d1b0698b663218f781156f6
+| http://appgallery.huawei.com/#/app/C104174325 | Stickman sniper elite | com.szlh.hcrjjzzsse.huawei | 5271c37c19c7a247c862c7112d7dea8db49ff046
+| http://appgallery.huawei.com/#/app/C103499973 | Stimulating roller coaster | com.zjld.fengkuangyouleyuan.huawei | 6837238bdc8c1905c1cfbfec3ca39a8e586677cc
+| http://appgallery.huawei.com/#/app/C104587903 | Stray in dead island | com.zjld.shengcundaosidi.huawei | 3379888d53fd51effd67ff9fbc2119d68d97eaf3
+| http://appgallery.huawei.com/#/app/C104469347 | Street car driving | com.cchl.jcddscd.huawei | 63148f90fb8e8079fadb3ce493674fe1cb190df2
+| http://appgallery.huawei.com/#/app/C104781237 | Street challenge race | com.xstk.zhensaichescr.huawei | 6670503a1cf8b08e8929e711d3015899c89fd80a
+| http://appgallery.huawei.com/#/app/C103893501 | Street shuttle race | com.hxy.motuochessr.huawei | 5a192f3a6503ab550032023aec571d7ee6712c07
+| http://appgallery.huawei.com/#/app/C104153509 | Super power police run | com.sns.ydpksppr.huawei | 828e546a47bbb0d3736875f6a2ee00888e47df0b
+| http://appgallery.huawei.com/#/app/C104590439 | Survival on uninhabited island | com.yly.haidaosoui.huawei | eb047267a7f24b5747d382b16127a8fa01fda801
+| http://appgallery.huawei.com/#/app/C104284205 | Swat War Conflict | com.zjld.csswat.huawei | 84f82cdee151a378799b1f932d1c858b06a0ae3b
+| http://appgallery.huawei.com/#/app/C104306487 | Tank endless battle | com.sns.tkpdzteb.huawei | b544cfa04bbc4c543dedba058612c15409a85c1f
+| http://appgallery.huawei.com/#/app/C104572649 | Tank joint war | com.hxy.xintanketjw.huawei | 372fb1d75294a7c410c5a1c56491bc87979f1839
+| http://appgallery.huawei.com/#/app/C103441719 | Tanks global hegemony | com.cchl.tankepodizhen.huawei | cc2b9dcd658316f87f35dd75d03c1e3f1ab2a870
+| http://appgallery.huawei.com/#/app/C103343939 | The Adventures of the Tribal Prince | com.ccsk.jimudeshijie.huawei | cc6535e4e9e7e15ab25a3eefda7ddd59101ceb3d
+| http://appgallery.huawei.com/#/app/C104152055 | Top restaurant | com.sns.djcstr.huawei | c84d75738aa2ddeaef76f4ca25dcb0679b1668c1
+| http://appgallery.huawei.com/#/app/C104022561 | Transfer Prisoner Action | com.cchl.wzyjqftpa.huawei | f3a2abc0b87efcdbb40baeed076272d921d8b7a9
+| http://appgallery.huawei.com/#/app/C104548907 | Transform props racing cars | com.cchl.ttbctprc.huawei | 6c432c9fcef93f885dde2ebe7229d4eff84a8514
+| http://appgallery.huawei.com/#/app/C103419061 | Urban thugs legend | com.zjld.mutouchaoren.huawei | 470d7242731bb388965bbb5ff054a34784b50a16
+| http://appgallery.huawei.com/#/app/C104377383 | Vegas gangster legend | com.cchl.gtavgl.huawei | 2c73e62f29675ac96f49eadc2ec10351568bd3da
+| http://appgallery.huawei.com/#/app/C103503313 | Vehicle driving test | com.yly.cheliangjiashikaoshi.huawei | b7ba41e8b9916f760413b7246238ac541baf5335
+| http://appgallery.huawei.com/#/app/C103824193 | Warship command | com.hs.gaizhuangdazuozhan.huawei | b084b4415bd7e8662028c9f372b5a881b87283cf
+| http://appgallery.huawei.com/#/app/C104174827 | Western sniper | com.ccsk.xbhyqsws.huawei | 66a582ab71624e06ee65b59ee2dcd9892c95dbf5
+| http://appgallery.huawei.com/#/app/C104777031 | Wild battleground | com.xstk.shengcunwb.huawei | 700d4672266d6f5d0389c160f7c51a0e2145b096
+| http://appgallery.huawei.com/#/app/C104484259 | Wild planet | com.yly.wlscwp.huawei | 4dca550b503de2728db030f8cd92fbe889030f17
+| http://appgallery.huawei.com/#/app/C103384303 | World Tank Championship | com.yly.tankepodizhe.huawei | ed02f8a71a39667da7315155d924a12b0fc083cb
+| http://appgallery.huawei.com/#/app/C103295249 | Zombie crisis on earth | com.hs.yiqidajiangshi.huawei | 7d5dae3505c05374a520af127c285ea159d9d2bb
+| http://appgallery.huawei.com/#/app/C104143151 | Zombie death city | com.yly.jujijszdc.huawei | 64eff308776e31534b07d0e03a530516e30fafa7
+| http://appgallery.huawei.com/#/app/C103419373 | Zombie Doomsday Invasion | com.szlh.dazhanjiangshijuntuan.huawei | 4900a43d29501a10d4d223ad5ed4e3188de1d630
+| http://appgallery.huawei.com/#/app/C103823385 | Zombie doomsday Survival | com.cchl.jiangshitafang.huawei | ad94b5f60864ae7fc45465ad1d3572a7d11c39d3
+| http://appgallery.huawei.com/#/app/C104010077 | Zombie Doomsday war | com.ccsk.yqdjszdw.huawei | 8153376ecbb60c8533c11faee9435d0568c2e93a
+| http://appgallery.huawei.com/#/app/C103553977 | Zombie Shootout Battle Royale | com.sns.fengkuanglueshizhe.huawei | 14eb8161f37667260fe4946ad3ef4bbb3bb9fd28
+| http://appgallery.huawei.com/#/app/C103144801 | Команда должна убить боеголовку | com.yly.elshjdt.huawei | 0ff27de04098aaf0420f37e1c96f2770e399656b
+| http://appgallery.huawei.com/#/app/C103241505 | элитный отряд на поле боя | com.ccsk.hejinfengbao.huawei | 98a6f3a393f2b0ab5a43662f6cdba1af89b431a1
+| http://appgallery.huawei.com/#/app/C101190899 | 快点躲起来 | com.game.cfquickhidenew.huawei | bb86d27c4e6f2e7858eb59d41e0fd911afce085a
+|===

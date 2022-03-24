@@ -1,0 +1,145 @@
+= Study of an APT attack on a telecommunications company in Kazakhstan  -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Trojan.Loader.889
+----
+f783fc5d3fc3f923c2b99ef3a15a38a015e2735a: McUiCfg.dll
+----
+
+=== Trojan.Loader.890
+----
+65f64cc7aaff29d4e62520afa83b621465a79823: SRVCON.OCX
+8b9e60735344f91146627213bd13c967c975a783: CLNTCON.OCX
+84d5f015d8b095d24738e45d2e541989e6221786: sti.dll
+3d8a3fcfa2584c8b598836efb08e0c749d4c4aab: iviewers.dll
+----
+
+=== Trojan.Loader.891
+----
+595b5a7f25834df7a4af757a6f1c2838eea09f7b: McUiCfg.dll
+----
+
+=== Trojan.Loader.893
+----
+46e999d88b76cae484455e568c2d39ad7c99e79f: McUiCfg.dll
+----
+
+=== Trojan.Loader.894
+----
+b1041acbe71d46891381f3834c387049cbbb0806: iviewers.dll
+----
+
+=== Trojan.Loader.895
+----
+635e3cf8fc165a3595bb9e25030875f94affe40f: McUiCfg.dll
+----
+
+=== Trojan.Loader.896
+----
+ff82dcadb969307f93d73bbed1b1f46233da762f: TmDbgLog.dll
+----
+
+=== Trojan.Loader.898
+----
+429357f91dfa514380f06ca014d3801e3175894d: CLNTCON.OCX
+----
+
+=== Trojan.Loader.899
+----
+cc5bce8c91331f198bb080d364aed1d3301bfb0c: LDVPTASK.OCX
+----
+
+=== BackDoor.PlugX.93
+----
+a8bff99e1ea76d3de660ffdbd78ad04f81a8c659: CLNTCON.OCX
+----
+
+=== BackDoor.PlugX.94
+----
+5a171b55b644188d81218d3f469cf0500f966bac
+----
+
+=== BackDoor.PlugX.95
+----
+b3ecb0ac5bebc87a3e31adc82fb6b8cc4fb66d63: netcfg.dll
+----
+
+=== BackDoor.PlugX.96
+----
+a3347d3dc5e7c3502d3832ce3a7dd0fc72e6ea49
+----
+
+=== BackDoor.PlugX.97
+----
+36624dc9cd88540c67826d10b34bf09f46809da7
+----
+
+=== BackDoor.PlugX.100
+----
+16728655e5e91a46b16c3fe126d4d18054a570a1
+----
+
+=== BackDoor.Whitebird.30
+----
+abfd737b14413a7c6a21c8757aeb6e151701626a
+a5829ed81f59bebf35ffde10928c4bc54cadc93b
+----
+
+=== Trojan.Siggen12.35113
+----
+4f0ea31a363cfe0d2bbb4a0b4c5d558a87d8683e: rapi.dll
+----
+
+=== Trojan.Uacbypass.21
+----
+20ad53e4bc4826dadb0da7d6fb86dd38f1d13255
+----
+
+=== Program.RemoteAdmin.877
+----
+23873bf2670cf64c2440058130548d4e4da412dd: AkavMiqo.exe
+----
+
+=== Tool.Frp
+----
+a6e9f5d8295d67ff0a5608bb45b8ba45a671d84c: firefox.exe
+39c5459c920e7c0a325e053116713bfd8bc5ddaf: firefox.exe
+----
+
+
+== Network indicators
+
+=== Domains
+----
+webmail.surfanny.com
+www.sultris.com
+mail.sultris.com
+pop3.wordmoss.com
+zmail.wordmoss.com
+youtubemail.club
+clark.l8t.net
+blog.globnewsline.com
+mail.globnewsline.com
+----
+
+=== IPs
+----
+45.144.242.216
+45.147.228.131
+46.105.227.110
+5.183.178.181
+5.188.228.53
+103.30.17.44
+103.93.252.150
+103.230.15.41
+103.251.94.93
+104.233.163.136
+159.65.157.100
+180.149.241.88
+185.105.1.226
+192.236.177.250
+209.250.241.35
+----

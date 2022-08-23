@@ -1,0 +1,40 @@
+= Doctor Web identifies attack on WhatsApp and WhatsApp Business messengers installed on counterfeit Android devices ― Indicators of compromise
+
+== Samples
+
+|===
+| Detection name | Path | SHA-1
+
+| Android.BackDoor.3104 | /system/lib/libmtd.so | b4bf9edf011e35fd049c2862e898a492bc76dc7d
+| Android.BackDoor.3105 | /system/lib/libcutils.so | e96da20cfad50842ab59781f051fda590d231cc9
+| Android.FakeUpdates.1.origin | /system/priv-app/ThirdPartyFOTA.apk
+
+package name: com.fota.wirelessupdate | ac633643a7130c5ced5672841dbc91ff92737ae6
+| Android.Backdoor.854.origin | /data/data/com.whatsapp/files/.art/PrivteProvide.jar
+/data/data/com.whatsapp.w4b/files/.art/PrivteProvide.jar
+/data/data/com.android.phone/files/.art/PrivteProvide.jar
+/data/data/com.android.settings/files/.art/PrivteProvide.jar| c747a3a901f3076c504dc513bfcf64e8d29600ac
+|===
+
+== Network indicators
+
+=== URLs
+
+==== Android.Backdoor.854.origin
+----
+hxxp://api[.]genetence[.]com:8300/pl2
+hxxp://api[.]matriature[.]com:8300/pl2
+hxxp://api[.]miretic[.]com:8300/pl2
+hxxp://api[.]sensfaction[.]com:8300/pl2
+hxxp://45.33.61[.]62:8300/pl2
+----
+
+==== Android.FakeUpdates.1.origin
+----
+hxxp://statistics[.]flurrydata[.]com
+hxxp://106[.]184.5.78
+"http://boot.b" + md5("202207")[1:8] + ".net"  2022 – year, 07 - month
+hxxp://app[.]fota.digitimetech[.]com
+hxxp://s1[.]fotaservice[.]com
+hxxp://112.124.58[.]101
+----

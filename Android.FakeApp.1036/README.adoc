@@ -1,0 +1,30 @@
+= Fake recruiting apps targeting Android device users — Indicators of compromise
+
+== Samples
+
+|===
+| Detection name | Package name | SHA-1
+
+| Android.FakeApp.1036 | com.yourjobs.findjob1 | 1012283da05e10d2eab052a2164078e510cbd950
+| Android.FakeApp.1039 | com.yesapp.notpon | 05072e0858325c6fce9c9dc62ad2544a43dd5c91
+| Android.FakeApp.1041 | com.jobsfinder.google | 27d6acf315fa903f42287dabf4fba5797586b198
+| Android.FakeApp.1045 | com.id.nanoss.google | 54a38513a8e852f2a0c09b8b2869009a5f657292
+| Android.FakeApp.1046 | online.jobs.allz.app | 823274fffe6a1d561cbd872408bf7cd44f6155db
+| Android.FakeApp.1047 | jobs.online.goodz.app | eee543c03d0aa287ce366246ad1c4c70ec82fee9
+| Android.FakeApp.1055 | com.grabjobs.google | 23605c0d78f44b0497859dc22cab3afa4d4276d7
+|===
+
+== Network indicators
+
+=== Domains
+
+----
+hxxps://d21icdv45rw4c3[.]cloudfront[.]net
+hxxps://www[.]jobstodayfyj[.]com
+hxxps://www[.]notpon666[.]com
+hxxps://www[.]jobsfinder1[.]com
+hxxps://www[.]nanoss1[.]com
+hxxps://recruitjobrecommon[.]com
+hxxps://jobrecommon[.]com
+hxxp://www[.]grabjobs1[.]com
+----

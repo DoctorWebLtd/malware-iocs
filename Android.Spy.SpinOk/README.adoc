@@ -1,0 +1,120 @@
+= Android apps containing SpinOk module with spyware features installed over 421,000,000 times — indicators of compromise
+
+== Samples
+
+|===
+| Detection name | Package name | App name | SHA-1 |
+
+| Android.Spy.SpinOk.1 | com.bingo.dd.slotrain.bankrain | Bank Bingo Slot | 09bc394526b8acdfad02cd4b62512de9fb1a6b15 |
+| Android.Spy.SpinOk.1 | com.bingo.win.wt.fun.game | Bingo-J | 8b52ad1744999a019151013c95d869f51b8f6946 |
+| Android.Spy.SpinOk.1 | com.blast.game.candy.candyblast | Jelly Connect | d9399887327b96cf6af4e547f8bac3e2d9a8ce2b |
+| Android.Spy.SpinOk.1 | com.carnival.slot.treasure.slotparty | Mega Win Slots | 8ef21b1edebbb20e012b5da411f911c2f4778938 |
+| Android.Spy.SpinOk.1 | com.clover.bingo.cloverbingo | Lucky Clover Bingo | 81b3dbf5b9fdd683a08eff792d83659a8f0239f1 |
+| Android.Spy.SpinOk.1 | com.coinpusher.jackpot.king | Jackpot King - Coin Pusher | ff13e35da45e57b689b738eca684e96c710143c8 |
+| Android.Spy.SpinOk.1 | com.crew.assessment.frame.complex | Owl Pop Mania | 5424005f9a6bfe2abe6ee9f4fbc94d03f46f4e32 |
+| Android.Spy.SpinOk.1 | com.dailystep.asd | Daily Step | 2f78a33e6ae66132b917c4073ac9b33ebcde854a |
+| Android.Spy.SpinOk.1 | com.funny.game.grscanner | Get Rich Scanner | c8dcd59d655f5141f05dd59a912ea0f08aca76b4 |
+| Android.Spy.SpinOk.1 | com.play.starquiz.quiz | Star Quiz | e6b14343e8d1fffee1521216b6293dcc56b4ca35 |
+| Android.Spy.SpinOk.1 | com.pusher.jackpot.lucky | Lucky Jackpot Pusher | 390efe953d0dc2f28005684680a4d341938d8dd4 |
+| Android.Spy.SpinOk.1 | com.ql.recovery.picpro | Pic Pro - AI Photo Enhancer | be25a9f6bd0799a5732558a060141ca8ec06f6fb |
+| Android.Spy.SpinOk.1 | com.integralwall.playbox.box | PlayBox: Rewarded Play | 1ff20130833bcd7450fe637c2cb4c7a2c04895dd |
+| Android.Spy.SpinOk.1 | com.kelly.laws.ready.username | Mission Guru: Brain Boost | 2aa7d576e8e5f762a79d962b301200ed24632323 |
+| Android.Spy.SpinOk.1 | com.bubble.connect.vvbubbleconnect | Bubble Connect - puzzle match | 1523288cab6ab5d53dfe9dbde27fefcd97664f3e |
+| Android.Spy.SpinOk.2 | com.novel.novelah | Novelah - Read fiction & novel | f242a0f4d1c5f9aad6feae529d6f938bb5399c31 |
+| Android.Spy.SpinOk.2 | com.cash.em.app | CashEM:Get Rewards | 9bd4a7105421f1b4c37d3cfceaa41124f8efd04d |
+| Android.Spy.SpinOk.3 | com.ai.bfly | VFly: video editor&video maker | 599a700e7c9e4a6c25c6ecc77f6db89b2d6541ee |
+| Android.Spy.SpinOk.2 | com.yy.biugo.lite | Biugo-video maker&video editor | f937b24eb19290fc8e171e3e6f09afd758dcd7c0 |
+| Android.Spy.SpinOk.2 | com.yy.biu | Noizz: video editor with music | d3ec7069d7d5b03e285b48b67752d335c813159f |
+| Android.Spy.SpinOk.2 | com.insta.cash.app | InstaCash:Earn rewards | fbe85ddd2cf07517cd1c00c91e476ab152a3b0d3 |
+| Android.Spy.SpinOk.1 | com.drawing.visual.twice | VibeTik | bf8bed5228cc411c50fecf8ec20e44bf6271b36c |
+| Android.Spy.SpinOk.1 | com.written.slide.bingotour | Bingo Tour | c7ba436777d664c71731c9e3fa40488f37b80ffd |
+| Android.Spy.SpinOk.1 | com.june.survey.recorded | Coin Big Bang | 59ed80b8e704a0ce7a7b53b18fecb554ee375ae7 |
+| Android.Spy.SpinOk.1 | com.blonde.magnetic.place | Gold Miner Coin Dozer | 2617a0c2ede56c1bd6998c3f1adbdb7c1dfc1596 |
+| Android.Spy.SpinOk.1 | com.food.match3d.puzzle | Match Fun 3D | 91ba1495ccc5e064b8584b5ddad31afa4a28594b |
+| Android.Spy.SpinOk.1 | com.surveyking.earn.money.from.surveys | SurveyKing - Earn from surveys | a209a85831ec87e8fa6ef2ed59d0991a761612ed |
+| Android.Spy.SpinOk.1 | run.sully1942.upload.employee | Holiday Solitaire Party | c832b9f1c62a034499133be28abf364eeb675fe1 |
+| Android.Spy.SpinOk.1 | com.filter91.statement.lifestyle | Step Counter:Keep Fit | 4ab18faf16c759575ccc26b6fb925eb10062f39c |
+| Android.Spy.SpinOk.1 | com.surveycash.earn.cash.money.from.paid.surveys | Survey Cash - Earn Easy Cash | 7006c9a428d3709d700b94163ba7a4ff0dd020fa |
+| Android.Spy.SpinOk.1 | com.bubble.connect.bitconnect | BitCoin Connect | c39485600122061a6010ed6df66dba73a26f1e22 |
+| Android.Spy.SpinOk.1 | cc.coastsamoa.slide.green | Mega Blast Tree | 00a83c6dec5e8e7b4ad97ba8d0f5b94dcd0bd71f |
+| Android.Spy.SpinOk.1 | com.bigtrea.scan.go | Treasure Scanner | 17ecede709ca847498ccbd650915f5b618a7de57 |
+| Android.Spy.SpinOk.1 | com.currency.dozer.currencydozer | Mega Coin Dozer | 972840e86a6939a954432f7debc16933933ea55d |
+| Android.Spy.SpinOk.1 | com.video.tubecbox | TT Tube:Short Video | fe964160d2cd07fbaed1f577996a52282282305b |
+| Android.Spy.SpinOk.1 | space.lattice1935.thoughts.times | Space Pop: Bubble Shooter | 7190279caac9cd541e67525fe1c6962b38f09942 |
+| Android.Spy.SpinOk.2 | com.crazy.plinko.winner.game | Crazy Drop | f640fbf76b6705b734331efff0c10b5bf8f46e5d |
+| Android.Spy.SpinOk.1 | com.registered.author.chair | WOW Domino | 1985d74f8b4e8650babbc9dcb113b5a36655e74e |
+| Android.Spy.SpinOk.1 | com.fevercentury.cake.swap | Cake Factory：Pop Match3 | d72d4bd34e4fbf7a15309da9bbcf61cc46720f8b |
+| Android.Spy.SpinOk.1 | com.realgame.solitaire.arena | Solitaire Arena | 2792493b34559cf9c7da0b701f4cc202f9240466 |
+| Android.Spy.SpinOk.1 | fun.comedylivesz.trial.packages | Domino Master | ffafadd81ae2e59a7b631ae232d568a2d5b4c259 |
+| Android.Spy.SpinOk.1 | com.game.fish.reworld | Royal Fishing Party | 658cc023643e0ed6f47165d91767f3433081008b |
+| Android.Spy.SpinOk.1 | club.issued193911.currently.associated | Piggy Rush Slot | f19ac2bbdc14c7970eb17d65b557f912803904f4 |
+| Android.Spy.SpinOk.1 | com.minota.fruit.fruitbigbang | Fruit BigBang | 25a4285ac6a85b78df75f275f4aa7187395dc4b5 |
+| Android.Spy.SpinOk.1 | com.effective.start.solitaire | Solitaire Go: TriPeaks | 78648d3eb8e5b9019e5c2e1b2b653830b9d4771d |
+| Android.Spy.SpinOk.1 | com.anime.checking.procedures | Casino Royale: Wild Slots | a55fa38f2ef9e6678964c12cf51b7150a6a095cd |
+| Android.Spy.SpinOk.1 | com.wallplay.coinvibe.android | Coin Vibe | 0777a9faad1bc315512868e2b77cdb8ae7ba1e01 |
+| Android.Spy.SpinOk.1 | com.words.money.win.cash.free.game | Lucky Word Club | 2d152243446ce717606ea93542db5971f7247a53 |
+| Android.Spy.SpinOk.1 | com.money_gun.earn.money.from.your.phone | Money Gun - Earn money easily | c7022a688b0e5f2b6260e2a45ca6380b0984d3cc |
+| Android.Spy.SpinOk.2 | com.sky.sea.cashzine | Cashzine - Earn money reward | fe8975d0af2f33af04b809eb63e02dabf31af1e3 |
+| Android.Spy.SpinOk.1 | com.weather.rewards.forecast.money | Weather & Rewards - Real Money | 1ff27b237922b078ea153604bbc18c113a37ada4 |
+| Android.Spy.SpinOk.1 | com.slots.win.money.bigcash2 | Witch Slots 2 | 715be256189c12c71fe189db89670f8d8a1e77ac |
+| Android.Spy.SpinOk.1 | com.minota.fruitdropb | Fruit Drop | a1f76fcdf25ca76cac131775fe08977a90ab3f56 |
+| Android.Spy.SpinOk.1 | com.kuaiyin.tick | Tick:watch to earn | 7626e54e6746bc62cd97b4b173798a4bc313b30d |
+| Android.Spy.SpinOk.1 | com.bingo.joy.win.game | Bingo Joy | f25c13d74a9c5866dbe9427fec130a31cfc003ea |
+| Android.Spy.SpinOk.1 | com.sandwishtube.asd | Video Tube：Cash Back | 9ab325313b45740c701d121a43ac5ac4cdf865d3 |
+| Android.Spy.SpinOk.1 | com.game.slot.masterdigger | Digger Master - Casino slots | 9bad72231f25788065816930c9a5b59f881e44d3 |
+| Android.Spy.SpinOk.2 | net.trendgames.play | Trend Games | 46837f94a937f943e791abe968fadbc6bcf4c10a |
+| Android.Spy.SpinOk.2 | com.roaster.earn.easy | Make Money & Earn Cash Rewards | 395e139ade2f0fa2cde798e84b8f5a1ff32f110b |
+| Android.Spy.SpinOk.2 | com.oufa.reward | bucksfir | 2637d1850bb3b1b7906f1fa2025df87c1e4a8475 |
+| Android.Spy.SpinOk.2 | com.gx.app.novelfun | NovelFun | bb6abb4e425494dc08a8ce00bbc7f447f0b27e24 |
+| Android.Spy.SpinOk.2 | br.com.pitapps.pixmaniabrasil | PixMania: Ganhe prêmios no pix | 42663ad291caaf35cb07331263746a326c34242a |
+| Android.Spy.SpinOk.2 | com.memguru.pro | MemGuru | 5e90196c06166eca9db2bbb2a231590e93ea4094 |
+| Android.Spy.SpinOk.2 | co.candygas.theapp | Candy Gas | 2c42ea402f3d9b2fcce3ce7c7791eddc787615d5 |
+| Android.Spy.SpinOk.2 | com.prizes.cash_money_rewards | Cash Prizes - Earn Rewards App | 2da9d6ce970089b2c7cb690665d97b30eabb767a |
+| Android.Spy.SpinOk.2 | com.eclipse.gamonyapp | Gamony : Make Money Everyday | 22a56f447b500c9a84cb6711d53dd1ccaeccfbd6 |
+| Android.Spy.SpinOk.2 | com.ohcashapp.android | OhCash | 52188af5863c1de799e753552b123fd4a7bd899b |
+| Android.Spy.SpinOk.2 | com.youth.youthrewards | Youth Rewards - Cash App | 61eba7479ad8cf26e329c807b6f7d1494a42ad17 |
+| Android.Spy.SpinOk.2 | com.fantasy.crazy.pusher.coin | Fantasy Pusher | a3d14e0d9061659c54d6c26f1151d225e46136d2 |
+| Android.Spy.SpinOk.2 | com.scanner.qr.myscanner | Money Game-Win Real Cash | ebc87b1b19196fbe1e12582c4fe04107cc775a56 |
+| Android.Spy.SpinOk.2 | step.counter.smart.walk.android | Smart Walk | 8b562d0e7853d22627a501c2c28c3614d6da1e4b |
+| Android.Spy.SpinOk.2 | e.books.reading.apps | Fizzo Novel - Reading Offline | be975d6a856b69a945540acc8d9f598745c8d144 |
+| Android.Spy.SpinOk.2 | com.mania.slots.vegas.casino | Mania Vegas Slots | b9f48f360336d7e4b1c34076a4f84b493479b04a |
+| Android.Spy.SpinOk.2 | com.game.tap.away.puzzle | Tap Away 3D | 12d15531228d8010d1b7078e6cfbf1e0e6b52469 |
+| Android.Spy.SpinOk.2 | com.stepwin.earn.walkmoney | StepWin-Pedometer&Step Tracker | 4a2548421b7e3ef1ab8f432537cafc718c8ec01d |
+| Android.Spy.SpinOk.2 | com.game.queenmatch | Queen Match-Triple Tile Master | 266c1fb538347e08a08a71e4f38aac967b8fb7c6 |
+| Android.Spy.SpinOk.2 | com.erancash.times | Fast Wallet-Earn Money&games | 5bbeb5095759bdf1fefbc30ae6c60d30efaf6170 |
+| Android.Spy.SpinOk.2 | com.QwekuDev.vdbrowser | Lion Coin: The King of Rewards | ce2c4d34757c715e08096f68bf2adbecfe9d537e |
+| Android.Spy.SpinOk.2 | com.reweize.android | Reweize: Earn Rewards | 2f7c58f8e3e06f5eecfd31066a1ffe1a73f70d8b |
+| Android.Spy.SpinOk.2 | com.swedswap.rewards | SWE Rewards "Swedswap" | 47450323a9ceb9e2ebce35541c3c157852ea3333 |
+| Android.Spy.SpinOk.4 | com.freediamonds.quickhitslots.vegas | Blitz Slots | 8d448cc95d0da8073a2e5af2d55d0381eaeb9305 |
+| Android.Spy.SpinOk.4 | com.water.sort.puzzle.master.captain | Water Puzzle Captain | 3838e47ccab9f8cabfdd65a7ff9be1df8e9d015d |
+| Android.MulDrop.1218 (drops Android.Spy.SpinOk.2) | com.celengan.moneytube | Money Tube: Video Player | 17196b056010d4eb762bd7370c493960cf0a09bd |
+| Android.Spy.SpinOk.5 | com.digiwards.app | DigiWards | 73440962c945f922c249be8476c97abef03bdbf9 |
+| Android.Spy.SpinOk.2 | crypto.aliens.bch | Bitcoin Cash Giveaway | a47cdc00e60e47eb500e38ba9c7007252916ec1b |
+| Android.Spy.SpinOk.2 | com.make.moneywell.game | Money Well:Play game&earn cash | 7d1475ab8b98f140f8db35832a46eb681c582805 |
+| Android.Spy.SpinOk.2 | com.starcoin.moremoney | Stars Coin | 0dc9a949ffee29283000162d080b44fd5087dc95 |
+| Android.Spy.SpinOk.2 | com.ctrange.colochess | Colo Chess | 3d065340af285839ab6700292b625c2965ff97bf |
+| Android.Spy.SpinOk.4 | com.sermase.longertimer | Alaa win play | 8b4335db0c66985a509aa8d8d08e2d98770158b6 |
+| Android.Spy.SpinOk.2 | com.videowin.app | Lucky Money - Real Money Games | f2d3ec5c1efa6d9463080b6bc6ac1cf9bfa5f668 |
+| Android.Spy.SpinOk.2 | com.gopuzzlecash.android | Puzzle Cash | 3a0c16923e7382f0e381176aa8ee4d739fd6fcb3 |
+| Android.Spy.SpinOk.4 | com.keyboard.governor.deliver.printing | Jackpot bingo Slots | ef46b9090cf1df63dae788ef5254b3038f6a0a6b |
+| Android.Spy.SpinOk.2 | com.poprewards.app | Pop Rewards | 498086c20f5cf6e75258c1029e7482f084a46315 |
+| Android.Spy.SpinOk.5 | com.cloudmob.game.playtube | Play Tube | 22d106ebc79357e7ac9346279dea7f8471d870fa |
+| Android.Spy.SpinOk.4 | com.messages.offered.platform | Loto Scratch and Win | 5b6ea9667debbbde7f1d360ce1751ae7075d4ad9 |
+| Android.Spy.SpinOk.2 | com.in.mvbit | MVBit - MV video status maker | 0f97969f403af7db58b39763db572370fb47449c |
+| Android.Spy.SpinOk.2 | com.gamereward.real.money.games | Game Reward- Real Money Games | f5e75a012910a15534dd7d84e9972181712bd824 |
+| Android.Spy.SpinOk.4 | com.park.inc3d2022 | Parking Inc. 3D | 89714a6aade48a1e0bd2c89b42d20d91695f42c1 |
+| Android.Spy.SpinOk.1 | com.myepic.mayamerge | Maya Merge | b3a3e2709e7365c9e49170fc24fc8cc310a9486d |
+| Android.Spy.SpinOk.5 | com.vodofun.royaldice | Royal Dice Party | b7bb205aef76d3ce5e9761927ae96dbd8902b82d |
+| Android.Spy.SpinOk.4 | com.blackgold.cwto21 | ChipWin To 21:Merge game | 07cd4b892abadbc3091f584f4f37f80bdb1b06fa |
+
+|===
+
+== Network indicators
+
+=== Domains
+
+----
+https[:]//d3hdbjtb1686tn[.]cloudfront[.]net/gpsdk.html
+https[:]//s[.]hisp[.]in
+
+----

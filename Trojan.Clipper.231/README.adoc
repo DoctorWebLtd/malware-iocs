@@ -1,0 +1,30 @@
+= Doctor Web identifies pirated Windows builds with crypto stealer that penetrates EFI partition -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Trojan.MulDrop22.7578
+----
+32c7b6629fabe6254431a558b57d30cd2f2d43d7: iscsicli.exe
+ceac85ddbee2917d1a95a892a983a512d4bfabfa: iscsicli.exe
+7559b01635160193755a6abb7cf36f4a5174f0e2: iscsicli.exe
+0d297ceb76429ea996a1cbe199c277252afad300: iscsicli.exe
+----
+
+=== Trojan.Inject4.57873
+----
+cacaeb37ccbdb310ee0148257877f4908b95c53c: recovery.exe
+5ea768e5c44a65035dbdac66d12ab68a94361962: recovery.exe
+dadfc0247ecf32011667d707e37caf827cd522c8: recovery.exe
+a3adba5c8d41b4c5f63e209317740daf6330dfc6: recovery.exe
+f6f6f1151cd9e8f37b6b5be07da13dd19d05397e: recovery.exe
+----
+
+=== Trojan.Clipper.231
+----
+03075c91d9c57e7051af49d840a2ef2e935b634b: kd_08_5e78.dll
+d31df5ea0f82784c010a16597675937fc4896cb0: kd_08_5e78.dll
+a3e83d122c7f8206091d81fb584897cdc4677d88: kd_08_5e78.dll
+b0115cb4807e9d84b6b73804bd7e88a9b0ee060e: kd_08_5e78.dll
+----

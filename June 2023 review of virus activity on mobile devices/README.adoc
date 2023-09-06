@@ -1,0 +1,65 @@
+= June 2023 review of virus activity on mobile devices — Indicators of compromise
+
+== Samples
+
+|===
+| Detection name | SHA-1
+
+| Android.FakeApp.1382 | 18f7d33342f53f8727c8e9b4d6895a2921e025b6
+| Android.FakeApp.1382 | 1c83bc176901c6358b9483b295f6173c47ebe650
+| Android.FakeApp.1383 | d64b2846aa136b5ac8348c1bd7e8202d22d8b735
+| Android.FakeApp.1384 | c1e897c6aedf7155200d48a0cde2336cc0fb80c0
+| Android.FakeApp.1384 | 54df7237d1c85b8adf18b0529de80a6723358f17
+| Android.FakeApp.1385 | f1b506358c0776387f6645a47551f1ba3a3545cc
+| Android.FakeApp.1386 | 04058077c0b8473981b8cd0404bb7a2761306a08
+| Android.FakeApp.1387 | db852eff26385ecc105fc33d52d88684eb064714
+| Android.FakeApp.1388 | 50447b27b95c457e40a33ba589b3db9b8bdbfd86
+| Android.FakeApp.1389 | 313a557938c9baca45ce9c10ee0800eec996e147
+| Android.FakeApp.1390 | caf56d87c84a358a65b81c6672f00a02b5d86333
+| Android.FakeApp.1391 | 340f128552a53b772893719bdb52d4d7d2b7e26b
+| Android.FakeApp.1392 | 989fbca743a20f947a992f49fd4ded678dd32d32
+| Android.FakeApp.1393 | 145e13e596ecf7313c57acb37ec8205260c8bc26
+| Android.FakeApp.1394 | 4adcd7820117221656fef0908baa52660b4e2c42
+| Android.FakeApp.1395 | a980cb423e7532ef47b065337704761b4407be90
+| Android.FakeApp.1396 | bce2479299eb9f92969268175068b324c9399b9e
+| Android.FakeApp.1397 | 1274e048503a42267b7e4768c10401a75cc3ba46
+| Android.FakeApp.1398 | 5d49423046d03474083d8bdd548d13ba92c94d8d
+| Android.FakeApp.1399 | a2f92d67ec5606318bc868f63dea5161396b7652
+| Android.FakeApp.1400 | c3985857d2af87354609e0f51bacd07d6bd03568
+| Android.FakeApp.1401 | ef342f82fdb71ef841322c543a7a2080fb535bef
+| Android.FakeApp.1402 | 0c37e514710bf9213240e340c25b984ba5e7807e
+| Android.Joker.2143 | 69cddf835dc7206801f8731e74b165e47b94ec80
+| Android.Joker.2152 | da2e078ab4471cf99e2360baf915ef6f774fed56
+| Android.Joker.2154 | 72f37ddb2b8e9f728c773f9a0e4923ec7aaf4baa
+| Android.Spy.5106 | 9496d9a804596dcb27290d508e46fc5a27a714a9
+| Android.HiddenAds.3697 | 0076a14a2bdf842e9252f6001838ace90ef752c4
+| Android.HiddenAds.3697 | 053567eb93555796cef87f8286b85e8cf5df78f4
+| Android.Packed.57083 | 0c51e87cc94c30e560eda7bca477dffafa42a79e
+| Android.Packed.57083 | ffd3d6952f1ea4f83a4f3f93418aecc4b1f44249
+| Android.MobiDash.7795 | 74100612fdab32692c7a062f4b905e393c0efb64
+| Android.MobiDash.7795 | a83df3f861333847512293949261f5936298af9c
+| Android.Pandora.7 | 06e5f681fbae1d5a5d859e63c9d57a0f684a5db8
+| Android.Pandora.2 | 14215a93ed5d0a86f31aab0b2d7be6db8a45a371
+| Program.FakeMoney.7 | 18fa02fd251195b3ef4a20e6e7db26867fb938cc
+| Program.FakeMoney.7 | 71251919ea0d45c77f51a0f2e5cdcc29f02b962f
+| Program.FakeMoney.8 | f9ae4ea8ef205c8fcb01cbe3ddb2f69b7ba3322f
+| Program.FakeAntiVirus.1 | 017719d3fee02a0dc4fa22017b882a5c0a983ec9
+| Program.FakeAntiVirus.1 | 8b8889f69532ab25c57351666389715e3d2b8676
+| Program.FakeAntiVirus.1 | e1b517dfacaa735014331dca8dfe8099ea74c8e5
+| Program.SecretVideoRecorder.1.origin | 24b76e7354c9d5772e9f3fa90b8fe63f263e8167
+| Program.SecretVideoRecorder.1.origin | 5404ff6c4baa94478a61455d2541734862dbbb9e
+| Program.Reptilicus.8.origin | 5319ee8812065d002a3e576a7669ca3e4356c0f7
+| Tool.SilentInstaller.14.origin | e9213c8e5327622d7cebc0232d1a6b751c53a54d
+| Tool.SilentInstaller.7.origin | 11bbd3eae7bc34e2ac86cdc1cc5b9075dc2f1b26
+| Tool.SilentInstaller.7.origin | 4fbf1629b2ec49cb2839c3e31f9adbc32285b741
+| Tool.SilentInstaller.6.origin | 52717eaa83bd7f25941c622bae3bd791146fdbd0
+| Tool.SilentInstaller.6.origin | a2e5122c1660ffcf759b3ac3a74263924cf722ce
+| Tool.LuckyPatcher.1.origin | 6e71c117dd597946de43a99df467a71a5728f7e0
+| Tool.ApkProtector.16.origin | 18fa72deca1d7872fef7d81c0b73d1408d8e2484
+| Adware.ShareInstall.1.origin | 0f244a35f16ef045bb389a07c520d222e683561d
+| Adware.MagicPush.3 | 5dc16a173eb747a1029e50ed5614a5aa1819cd36
+| Adware.MagicPush.1 | 1624b2ae1c232ebf843aa29b9d362434e6f10f9d
+| Adware.MagicPush.1 | 64f1aa22f484f250b9956adef780c3ccb45832f5
+| Adware.AdPush.39.origin | 7a168d81399a0872f7b86deeb773f8d995e7a450
+| Adware.AdPush.39.origin | feafc0517dd9d40d7c621b7296bc072c3806f4f8
+| Adware.Airpush.7.origin | 48dd9d4b9c69c5c5f0fa387864d8ce1f68dea50f

@@ -1,0 +1,30 @@
+= Android.Spy.Lydia trojans masquerade as an Iranian online trading platform to steal personal information and funds — Indicators of compromise
+
+== Samples
+
+----
+sha1:39e55c1d04c77e95583303131f45208e57c327b9 — Sahamed.apk (Android.Spy.Lydia.1)
+sha1:a47a2602299c6608e5c2684ef8289e136da58e25 — sahamedalat.apk (Android.Spy.Lydia.2)
+sha1:a20221501711ed01dd89507eca4b1396d5f0d471 — app.apk (Android.Spy.Lydia.3)
+sha1:9178e58bc936d6ed2d1a7fbb1b813df5b19b7b3a — app.apk (Android.Spy.Lydia.3)
+sha1:9c502478b1452c277607a7f394cd6a3ab0867e22 — (Android.Spy.Lydia.3)
+----
+
+== Network indicators
+
+=== Domains
+----
+ws[:]//httpiamaloneqs[.]xyz:80
+hxxp[:]//teuoi[.]com
+hxxps[:]//my-edalatsaham[.]sbs/fa/app.php
+hxxps[:]//sahamt.qpoe[.]com/app.php
+hxxps[:]//my-edalat-sahamse[.]lol?lang=fa
+hxxps[:]//viiirubre[.]store/Dargah
+hxxps[:]//date-manager[.]com/sham/app.php
+hxxps[:]//dolati[.]host/%F0%9D%90%9C%E2%80%8C%E2%80%8C/app.php
+hxxps[:]//ydilat[.]host/%F0%9D%90%9C%E2%80%8C%E2%80%8C/app.php
+hxxps[:]//biuy.are-eg[.]com
+hxxps[:]//sahmanl.4dq[.]com
+hxxps[:]//fusagov[.]xyz
+hxxps[:]//biguxcse[.]xyz
+----

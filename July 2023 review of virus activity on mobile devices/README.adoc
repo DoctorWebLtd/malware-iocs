@@ -1,0 +1,42 @@
+= July 2023 review of virus activity on mobile devices — Indicators of compromise
+
+== Samples
+
+|===
+| Detection name | SHA-1
+
+| Adware.AdPush.39.origin | 7a168d81399a0872f7b86deeb773f8d995e7a450
+| Adware.AdPush.39.origin | feafc0517dd9d40d7c621b7296bc072c3806f4f8
+| Adware.Airpush.7.origin | 48dd9d4b9c69c5c5f0fa387864d8ce1f68dea50f
+| Adware.Fictus.1.origin | 00aa3a61a6b70bfdb8ddceb9c74f72ed06a170d1
+| Adware.Fictus.1.origin | 0867d90ac1aa5680cc99d64a6b6ea6d491495f4c
+| Adware.MagicPush.3 | 5dc16a173eb747a1029e50ed5614a5aa1819cd36
+| Adware.ShareInstall.1.origin | 0f244a35f16ef045bb389a07c520d222e683561d
+| Android.CoinSteal.105 | 6cf371e96c813a432713c8146e69d2f44607dfcc
+| Android.CoinSteal.105 | 888704ab0a8454e1b72b23965e282d3d89bb529a
+| Android.Harly.80 | 0f834fde5cc133da4980ad1ca6e3eeab658b128f
+| Android.HiddenAds.3697 | 0076a14a2bdf842e9252f6001838ace90ef752c4
+| Android.HiddenAds.3697 | 053567eb93555796cef87f8286b85e8cf5df78f4
+| Android.Joker.2170 | 36fa79fab68c58e5df63f49d1f5c4a225e597a73
+| Android.Joker.2171 | 597bab95d64b286d5d8efec8c31abf948dc1497e
+| Android.Joker.2176 | 0d00919a025f210cfda63aeba51abed3cdaad42c
+| Android.Packed.57083 | 0c51e87cc94c30e560eda7bca477dffafa42a79e
+| Android.Packed.57083 | ffd3d6952f1ea4f83a4f3f93418aecc4b1f44249
+| Android.Pandora.2 | 14215a93ed5d0a86f31aab0b2d7be6db8a45a371
+| Android.Pandora.5 | b97f19d0f05b222947805803b9c844ccd942b7a3
+| Android.Pandora.7 | 06e5f681fbae1d5a5d859e63c9d57a0f684a5db8
+| Android.Spy.5106 | 9496d9a804596dcb27290d508e46fc5a27a714a9
+| Program.FakeAntiVirus.1 | 017719d3fee02a0dc4fa22017b882a5c0a983ec9
+| Program.FakeAntiVirus.1 | 8b8889f69532ab25c57351666389715e3d2b8676
+| Program.FakeMoney.7 | 18fa02fd251195b3ef4a20e6e7db26867fb938cc
+| Program.FakeMoney.7 | 71251919ea0d45c77f51a0f2e5cdcc29f02b962f
+| Program.FakeMoney.8 | f9ae4ea8ef205c8fcb01cbe3ddb2f69b7ba3322f
+| Program.SecretVideoRecorder.1.origin | 24b76e7354c9d5772e9f3fa90b8fe63f263e8167
+| Program.SecretVideoRecorder.1.origin | 5404ff6c4baa94478a61455d2541734862dbbb9e
+| Program.SnoopPhone.1.origin | 49569cde1fdfa458f4cf84531e3a93663a9f38d6
+| Tool.ApkProtector.16.origin | 18fa72deca1d7872fef7d81c0b73d1408d8e2484
+| Tool.LuckyPatcher.1.origin | 6e71c117dd597946de43a99df467a71a5728f7e0
+| Tool.Packer.3.origin | f6b7b11c8920e33b5edf914206d3ae8bd9150454
+| Tool.SilentInstaller.14.origin | e9213c8e5327622d7cebc0232d1a6b751c53a54d
+| Tool.SilentInstaller.6.origin | 52717eaa83bd7f25941c622bae3bd791146fdbd0
+| Tool.SilentInstaller.6.origin | a2e5122c1660ffcf759b3ac3a74263924cf722ce

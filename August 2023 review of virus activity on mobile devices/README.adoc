@@ -1,0 +1,39 @@
+= August 2023 review of virus activity on mobile devices — Indicators of compromise
+
+== Samples
+
+|===
+| Detection name | SHA-1
+
+| Adware.AdPush.36.origin | 92d7798feaef1bcc6e28c2e60a690d7da7d27f22
+| Adware.AdPush.39.origin | 7a168d81399a0872f7b86deeb773f8d995e7a450
+| Adware.AdPush.39.origin | feafc0517dd9d40d7c621b7296bc072c3806f4f8
+| Adware.Airpush.7.origin | 48dd9d4b9c69c5c5f0fa387864d8ce1f68dea50f
+| Adware.MagicPush.1 | 1624b2ae1c232ebf843aa29b9d362434e6f10f9d
+| Adware.MagicPush.1 | 64f1aa22f484f250b9956adef780c3ccb45832f5
+| Adware.ShareInstall.1.origin | 0f244a35f16ef045bb389a07c520d222e683561d
+| Android.HiddenAds.3697 | 08415e1771bfc5b229557deb01e63c0a5601f07e
+| Android.HiddenAds.3697 | 0a15c8229c290aceca8a2b543251c4907372d365
+| Android.HiddenAds.3766 | 2e33de933b62950222cbf5b5ab81ca45559f699e
+| Android.MobiDash.7802 | eedaeccd391115ab085cd0f47392cd991976c06d
+| Android.Packed.57083 | 0c51e87cc94c30e560eda7bca477dffafa42a79e
+| Android.Packed.57083 | ffd3d6952f1ea4f83a4f3f93418aecc4b1f44249
+| Android.Pandora.2 | 14215a93ed5d0a86f31aab0b2d7be6db8a45a371
+| Android.Pandora.7 | 06e5f681fbae1d5a5d859e63c9d57a0f684a5db8
+| Android.Spy.5106 | 9496d9a804596dcb27290d508e46fc5a27a714a9
+| Program.FakeAntiVirus.1 | 8b8889f69532ab25c57351666389715e3d2b8676
+| Program.FakeAntiVirus.1 | e1b517dfacaa735014331dca8dfe8099ea74c8e5
+| Program.FakeMoney.7 | 726cdb1077e8ccf5e0c619ac42cd6850dfefd615
+| Program.FakeMoney.7 | f99d997701ca41f14d40eda1c1f1a79cbff3bc11
+| Program.FakeMoney.8 | f9ae4ea8ef205c8fcb01cbe3ddb2f69b7ba3322f
+| Program.SecretVideoRecorder.1.origin | 7607c6bc3fda8098621ac97b21c9cf013fc2a366
+| Program.SecretVideoRecorder.1.origin | a75f2a400ed6b200acc26a2e1aa285110addc08d
+| Program.wSpy.1.origin | 4da47e907e74ad939eacda9f01e49bfbb42e30c9
+| Program.wSpy.1.origin | f1b71e4faa9ad1c19f65596e52a1dce496ec7bf6
+| Tool.ApkProtector.16.origin | 18fa72deca1d7872fef7d81c0b73d1408d8e2484
+| Tool.LuckyPatcher.1.origin | 6e71c117dd597946de43a99df467a71a5728f7e0
+| Tool.SilentInstaller.14.origin | e9213c8e5327622d7cebc0232d1a6b751c53a54d
+| Tool.SilentInstaller.6.origin | 52717eaa83bd7f25941c622bae3bd791146fdbd0
+| Tool.SilentInstaller.6.origin | a2e5122c1660ffcf759b3ac3a74263924cf722ce
+| Tool.SilentInstaller.7.origin | e07fa9e81fe7718521ff1200ccf53f18e4f0d178
+| Tool.SilentInstaller.7.origin | fd33e88c786b5a1e62f41dda6b46138b931afd61

@@ -1,0 +1,31 @@
+= Hidden crypto miner in pirated software makes cybercriminals rich at the expense of their victims ― Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Trojan.BtcMine.3767
+----
+4ffae4669eba9938639662667f5430a806e56980
+7717e9c5d85e77653bf65e57ed20f89086c3e3ed
+----
+
+=== Trojan.BtcMine.2742
+----
+673b6be8163580ba70403321663f5edbb0565f12
+feb0501ac141df63cc0d5bb341cb24a769f81bc9
+bfab9c8da1f969b07e4e7f0bd1aa9865fd7a9d3c
+5918bbf71641c2776f20bdd2fc08c82dc17178cc
+----
+
+
+== Network indicators
+
+=== Domains
+----
+t[.]me/files_f
+soft[.]sibnet[.]ru
+promo3010[.]click
+itmen[.]software/office/aktivator
+mega[.]nz/file/M3VkwS6R#5s4clQ9aEE8kesscEF3vzAC5eVh9a-vCt4DMCTuJtZE
+----

@@ -1,0 +1,82 @@
+= Study of a targeted attack on a Russian enterprise in the mechanical-engineering sector -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+=== Trojan.Siggen21.39882
+----
+9b75ef8a67b412122e03a8209c5d46ea5a8cd957: Дополнительные материалы, перечень вопросов, накладные и первичные документы.exe
+----
+
+=== JS.BackDoor.60
+----
+847855b9240afb0b8e1e11de412cc779db51020e: the main backdoor body
+5f51e7319c582a8ccdd4971d22515977213b8639: the “task_autorun_lnk” task
+d45d42225db3ce5cd1407dff55d88dc5ffa843e2: the “task_autorun_reg” task
+940390c98276ceda423574c7357188728ea83074: the “task_autorun_scheduler” task
+b3d694a7832cd4f228df9cbeaee10e996b583d18: the “task_fdwd” task
+db86d55f3394d82f10f9b17b2250d11bb38149c5: the “task_punto2_diary” tas;
+5a17ed042b3209d993cd81b56f420a36bd1f3b3a: the “task_punto_install” task
+0d2226f7cf71c8685f52d490586ed63bb3393fc1: the “task_s” task
+----
+
+=== BackDoor.SpyBotNET.79
+----
+c402d069a92bbc552c3ac6497547e10f45aca4f3
+----
+
+=== Trojan.DownLoader46.24755
+----
+3f34031b923dc68667859162260b22830cbce521: Проводник.exe
+----
+
+== Network indicators
+
+=== Domains
+----
+rembo[.]solkvize[.]com
+ragulya[.]amoibius[.]com
+skalioz[.]zenoizen[.]com
+zalupakonya[.]clonckure[.]com
+kishka[.]vivostark[.]com
+pizda[.]eckliptic[.]com
+aran[.]quonovap[.]com
+barmaley[.]quoonity[.]com
+muflon[.]zorroiz[.]com
+----
+
+=== IPs:
+----
+213[.]232.255.61:8080
+88[.]99.71.225:8080
+51[.]178.53.191:8080
+78[.]46.66.9:8080
+135[.]181.206.12:8080
+217[.]145.238.175:80
+164[.]90.185.9:443
+94[.]156.6.209:80
+104[.]248.253.214:80
+141[.]94.175.31:8098
+34[.]207.71.126:80
+192[.]99.44.107:8080
+107[.]161.20.142:8080
+52[.]86.18.77:8080
+192[.]99.196.191:443
+216[.]250.190.139:80
+205[.]185.123.66:8080
+52[.]26.63.10:9999
+24[.]199.110.250:8080
+45[.]55.65.93:80
+139[.]99.123.53:9191
+44[.]228.161.50:443
+162[.]33.178.113:80
+167[.]71.106.175:80
+45[.]76.190.214:1024
+154[.]31.165.232:80
+168[.]138.211.88:8099
+52[.]193.176.117:443
+52[.]196.241.27:443
+54[.]249.142.23:443
+121[.]63.250.132:88
+----

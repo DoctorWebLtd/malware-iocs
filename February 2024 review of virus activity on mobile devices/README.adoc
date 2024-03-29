@@ -1,0 +1,39 @@
+= February 2024 review of virus activity on mobile devices — Indicators of compromise
+
+== Samples
+
+|===
+| Detection name | SHA-1
+
+| Adware.ModAd.1 | f313360472d294b9f6205585bd5742a59ad07065
+| Adware.Adpush.21846 | 4e164cd0a8ad4e00102717957ee85320234bc7d3
+| Adware.AdPush.39.origin | 7a168d81399a0872f7b86deeb773f8d995e7a450
+| Adware.AdPush.39.origin | feafc0517dd9d40d7c621b7296bc072c3806f4f8
+| Adware.Airpush.7.origin | 48dd9d4b9c69c5c5f0fa387864d8ce1f68dea50f
+| Adware.ShareInstall.1.origin | 0f244a35f16ef045bb389a07c520d222e683561d
+| Android.HiddenAds.3956 | 059fb8592c8edd8475d94a4ad8c0f12ab715f8de
+| Android.HiddenAds.3956 | 0674d656580780c1b9ebd1d916320f7b24abcd62
+| Android.HiddenAds.3851 | 88549742af8fa1e9d37298f704f1478c41930990
+| Android.HiddenAds.3851 | 8a99bef43844238dece38f5b693ca3ccded0196d
+| Android.Spy.5106 | 9496d9a804596dcb27290d508e46fc5a27a714a9
+| Android.HiddenAds.Aegis.1 | 10e743b712899baa6c2d71b2680bd4a1231ae115
+| Android.HiddenAds.Aegis.1 | 381537111a1e4fe028738690957d01ba5bde1393
+| Android.HiddenAds.Aegis.4.origin | 91ed9521d008164b94017e114f24c49636910d6e
+| Program.CloudInject.1 | 9c97f4010f2b10bf00951216141b8aa5e67c86bc
+| Program.CloudInject.1 | decd232709a4878f0b6b1cb5cfb28d3b8b471d3e
+| Program.FakeAntiVirus.1 | 017719d3fee02a0dc4fa22017b882a5c0a983ec9
+| Program.FakeAntiVirus.1 | 8b8889f69532ab25c57351666389715e3d2b8676
+| Program.wSpy.3.origin | 25f6988e1a46566ac85463fd3f66d314b4441263
+| Program.wSpy.3.origin | 6ca09dd7292d2ea97325c1aa4217dc3232e84ca7
+| Program.TrackView.1.origin | 232bfdf129d4e8f075138b7ba70e70de8b5bbea7
+| Program.SecretVideoRecorder.1.origin | 7607c6bc3fda8098621ac97b21c9cf013fc2a366
+| Program.SecretVideoRecorder.1.origin | b549db6a95d084542b9a2e10c8d392af597c2073
+| Tool.CloudInject.1 | c66100aee1b7816fcca2dc7088d77e35fc2ab771
+| Tool.NPMod.1 | 696588e66632cfd79f0ad9390c8df7e5ed5671a6
+| Tool.SilentInstaller.14.origin | e9213c8e5327622d7cebc0232d1a6b751c53a54d
+| Tool.SilentInstaller.7.origin | 11bbd3eae7bc34e2ac86cdc1cc5b9075dc2f1b26
+| Tool.SilentInstaller.7.origin | e07fa9e81fe7718521ff1200ccf53f18e4f0d178
+| Tool.SilentInstaller.7.origin | fd33e88c786b5a1e62f41dda6b46138b931afd61
+| Tool.SilentInstaller.6.origin | 52717eaa83bd7f25941c622bae3bd791146fdbd0
+| Tool.SilentInstaller.6.origin | a2e5122c1660ffcf759b3ac3a74263924cf722ce
+| Tool.LuckyPatcher.1.origin | 6e71c117dd597946de43a99df467a71a5728f7e0

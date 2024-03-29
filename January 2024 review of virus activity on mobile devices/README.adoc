@@ -1,0 +1,60 @@
+= January 2024 review of virus activity on mobile devices — Indicators of compromise
+
+== Samples
+
+|===
+| Detection name | SHA-1
+
+| Adware.StrawAd.1 | 52c865404708223d21e9064f1b8b9be2ddefc417
+| Adware.StrawAd.1 | c35ec6566602fe4e4b06f232fb168108de234b24
+| Adware.StrawAd.2 | 3cb89a80bd818b058aca3e533eb96b55a88dd6f3
+| Adware.StrawAd.3 | 46b85e35bc4fed58453ae063629a4f66abc7de0b
+| Adware.StrawAd.4 | 3f5cd15a0c01266618193e240cf8f5903069c83a
+| Adware.StrawAd.5 | c80f64d67e1bcb1e14b23a312aaf1ccb94df020b
+| Adware.StrawAd.6 | 24b0bb16f9767370ed6ac2ade693edea98a89419
+| Adware.StrawAd.7 | bbe26fc9869633e79dcc92f80b59a076696532c0
+| Adware.StrawAd.8 | f108568e0c2f99d38cf1e092bd1ae4bc82063fee
+| Adware.StrawAd.9 | 189c9898d829fd606e5b81d54d587f1cc1384999
+| Adware.StrawAd.1.origin | ef1f245549d07d4f547afe96dfd97c786b4a1309
+| Adware.AdPush.39.origin | 7a168d81399a0872f7b86deeb773f8d995e7a450
+| Adware.AdPush.39.origin | feafc0517dd9d40d7c621b7296bc072c3806f4f8
+| Adware.Adpush.21846 | 4e164cd0a8ad4e00102717957ee85320234bc7d3
+| Adware.Airpush.7.origin | 48dd9d4b9c69c5c5f0fa387864d8ce1f68dea50f
+| Adware.ShareInstall.1.origin | 0f244a35f16ef045bb389a07c520d222e683561d
+| Android.FakeApp.1564 | b176d98d97df68855ca8fba1b2f2ac2274b03397
+| Android.FakeApp.1573 | 236ee997669951670bc12f74089da983b3a1e47f
+| Android.FakeApp.1574 | f41270b8e22e6f213cd97bebdc0f87a058337275
+| Android.FakeApp.1575 | 8b4baf25c120e462a0a515cf4287f7eb93daf39f
+| Android.FakeApp.1576 | 364372aabd476004c63465357b037cdea3a521b8
+| Android.FakeApp.1576 | 3919856d0b24d335012bc5ef23de101104ad8e62
+| Android.FakeApp.1577 | b91810f01763946883e298406248ce0f335b0166
+| Android.FakeApp.1578 | 200d33c37595f82c50753589262ebf672b442df3
+| Android.FakeApp.1579 | 2afccc5d78408e2af8d94c9c8331537b16d39dec
+| Android.FakeApp.1580 | 56cc7bc3fb17106d19f07b7fb05db762224c6c5e
+| Android.FakeApp.32.origin | 91a6834d3e4a3aa22b27fa2c39bb9caafd9146d3
+| Android.FakeApp.32.origin | c4a767a1cdc0e904f664b301ecfb279de2793c40
+| Android.HiddenAds.3851 | 046e6c54dfbd27b64c34bbfc20d2bffaaa0a0018
+| Android.HiddenAds.3851 | 1a6d93a590e1b29911fd0c7606fc0918b12be8da
+| Android.HiddenAds.3831 | 016810c2aaf499d18be9e12da908b31d4c450d08
+| Android.HiddenAds.3831 | 0358546ea5c4a736d43d1dcafd3142c1d5920153
+| Android.Spy.5106 | 9496d9a804596dcb27290d508e46fc5a27a714a9
+| Android.Spy.4498 | b61e6f67179972c82b7e625550c0e79981c45c3e
+| Android.Spy.4498 | e4a1485cb847f36dd6176096304901d99f231529
+| Android.MobiDash.7805 | 6c2b880b43397c9e5238a866a938bd34aefc36c6
+| Program.CloudInject.1 | 9c97f4010f2b10bf00951216141b8aa5e67c86bc
+| Program.CloudInject.1 | decd232709a4878f0b6b1cb5cfb28d3b8b471d3e
+| Program.FakeAntiVirus.1 | 8b8889f69532ab25c57351666389715e3d2b8676
+| Program.FakeAntiVirus.1 | e1b517dfacaa735014331dca8dfe8099ea74c8e5
+| Program.wSpy.3.origin | 25f6988e1a46566ac85463fd3f66d314b4441263
+| Program.wSpy.3.origin | 6ca09dd7292d2ea97325c1aa4217dc3232e84ca7
+| Program.FakeMoney.7 | 726cdb1077e8ccf5e0c619ac42cd6850dfefd615
+| Program.FakeMoney.7 | f99d997701ca41f14d40eda1c1f1a79cbff3bc11
+| Program.TrackView.1.origin | 232bfdf129d4e8f075138b7ba70e70de8b5bbea7
+| Tool.CloudInject.1 | c66100aee1b7816fcca2dc7088d77e35fc2ab771
+| Tool.NPMod.1 | 696588e66632cfd79f0ad9390c8df7e5ed5671a6
+| Tool.SilentInstaller.14.origin | e9213c8e5327622d7cebc0232d1a6b751c53a54d
+| Tool.SilentInstaller.7.origin | e07fa9e81fe7718521ff1200ccf53f18e4f0d178
+| Tool.SilentInstaller.7.origin | fd33e88c786b5a1e62f41dda6b46138b931afd61
+| Tool.SilentInstaller.6.origin | 52717eaa83bd7f25941c622bae3bd791146fdbd0
+| Tool.SilentInstaller.6.origin | a2e5122c1660ffcf759b3ac3a74263924cf722ce
+| Tool.LuckyPatcher.1.origin | 6e71c117dd597946de43a99df467a71a5728f7e0

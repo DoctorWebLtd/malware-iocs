@@ -1,0 +1,45 @@
+= Smart-sex-toy users targeted by clicker trojan — Indicators of compromise
+
+== Samples
+
+|===
+| SHA-1 | Name | Detection name | Comment
+
+| 66c09fe739d3477b9e7af996ed3e35115a47e4b1 | com.android.deskclock (/system/app/DeskClock/DeskClock.apk) | Android.Click.410.origin | Detected on X96Q TV box
+| 44bc9a3bcae3d19ccc1fb0429e22df8b407443f9 | cn.com.goodsdk.hw.ad (/system/app/cn.com.goodsdk.hw.ad_MjAyMi0wOS0yMSAxNzo0Nzo0OQ==.apk) | Android.RemoteCode.348.origin | Detected on V88mini TV box, downloads Android.Click.410.origin
+| 862ae5f2334fcf7bdc37caa4f16076e18a409b6e | com.wbkj.lovespouse | Android.Click.414.origin | App version 1.8.4
+| 06c99cf6e53bfe9b730f57a531a4ef5202bafefa | com.wbkj.lovespouse | Android.Click.414.origin | App version 1.8.5
+| 5ee7fee0f817cefe91211006472ffe774ab9ac5d | com.wbkj.lovespouse | Android.Click.414.origin | App version 1.8.6
+| d65ca4d9608411da9bb2e992c1dc710774b145c9 | com.wbkj.lovespouse | Android.Click.414.origin | App version 1.8.7
+| df8c11d4a1496f81e9ae89fe61e1e67f2926c328 | com.qix.running | Android.Click.414.origin | App version 1.1.10
+| 159438fcbc60c9988110cb2e3abd6a8c9e94f3c4 | com.qix.running | Android.Click.414.origin | App version 1.1.11
+
+
+|===
+
+== Network indicators
+
+=== Domains
+==== Android.Click.414.origin & Android.Click.410.origin
+
+----
+trends[.]search-hub[.]cn 
+play[.]airmfly[.]com
+geo[.]airmfly[.]com
+stg[.]airmfly[.]com
+capture[.]airmfly[.]com
+keywords[.]airmfly[.]com
+usae[.]dsp.dbincome[.]com 
+planwm[.]weatherokye[.]com 
+5[.]ahd187[.]com
+
+----
+
+=== IP addresses
+==== Android.RemoteCode.348.origin
+
+----
+104[.]250.52[.]73
+128[.]14.143[.]26
+
+----

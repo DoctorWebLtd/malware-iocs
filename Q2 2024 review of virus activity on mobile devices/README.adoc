@@ -1,0 +1,52 @@
+= Q2 2024 review of virus activity on mobile devices — Indicators of compromise
+
+== Samples
+
+|===
+| Detection name | SHA-1
+
+| Android.FakeApp.1498 | 516aa0b92cb946230ca6c2eb778fde34850c9521
+| Android.FakeApp.1600 | 645ae4d7bc879645b6f2e0ebe84d57e89cb03f78
+| Android.FakeApp.1601 | 5b6cc4bb6fb2cceda7e9fcda68b57ec0ca85e289
+| Android.FakeApp.1602 | 34da69a656ebf9368fe131d95747b42d7e6dd760
+| Android.FakeApp.1602 | 4929f17eabfd3ad7431278ce6540751c46fa3b32
+| Android.FakeApp.1603 | 32b153e6abf6c5f2f5c10d18feade74dc8d15973
+| Android.FakeApp.1604 | 32f4fea0373dc38f07c9cf9c1251bec51e2ec588
+| Android.FakeApp.1605 | b9d25a26a33c3c9e79374f5b655ecaf9dd5671c2
+| Android.FakeApp.1606 | f7a7e59e6f04a44ce6d95ef92659e1eeb403489d
+| Android.FakeApp.1607 | 4682b5cefa113bb7eb51959b5400ab6317d4aa3d
+| Android.FakeApp.1608 | b6b371764a939c7c121a4512b12c997ac0bdbab1
+| Android.FakeApp.1610 | f825d4ca05f138cfbc8dbe7f2731e5fbc940372f
+| Android.FakeApp.1611 | a96a321763efddbc2bf03ec66be721fd8fecb138
+| Android.FakeApp.1612 | 0d93d9836b5d4ae8f612d5f0049fc38471036e9d
+| Program.FakeMoney.11 | 23d35f8774fa7020b804fa1253b13c59bf338e81
+| Program.FakeMoney.11 | 7fdb2adc34504b63f1f123d61ea36b6afbb6c00b
+| Android.Harly.82 | b3501646f30b0c3a59a6a601b7c5fe53e5ea162c
+| Android.Harly.87 | ff7fe39ed3efd93e419497ff6d0d2c3992824fc2
+| Android.HiddenAds.3956 | 1ccf2f5a5caed19d9d8672a9ccf25b9cafc08a4f
+| Android.HiddenAds.3956 | 204ed9ed1a4fa2531f4baf8767e57adb7794ca1f
+| Android.HiddenAds.3980 | 40546dd9554f6743abb8c9f90cba59da8cdeb831
+| Android.HiddenAds.3980 | 729fc241e8700403f13af7a36ded8e09621f18cc
+| Android.HiddenAds.3989 | 8a6ebc76590faec8907445e0dd26b645d5821276
+| Android.HiddenAds.3989 | cbb8972189ef7c93f978cf62c4ca8d26ced9d569
+| Android.Spy.5106 | 9496d9a804596dcb27290d508e46fc5a27a714a9
+| Program.CloudInject.1 | 9c97f4010f2b10bf00951216141b8aa5e67c86bc
+| Program.CloudInject.1 | decd232709a4878f0b6b1cb5cfb28d3b8b471d3e
+| Program.FakeAntiVirus.1 | 017719d3fee02a0dc4fa22017b882a5c0a983ec9
+| Program.FakeAntiVirus.1 | e1b517dfacaa735014331dca8dfe8099ea74c8e5
+| Program.TrackView.1.origin | 232bfdf129d4e8f075138b7ba70e70de8b5bbea7
+| Program.SecretVideoRecorder.1.origin | 24b76e7354c9d5772e9f3fa90b8fe63f263e8167
+| Program.SecretVideoRecorder.1.origin | 5404ff6c4baa94478a61455d2541734862dbbb9e
+| Tool.SilentInstaller.17.origin | e33aad2f232f469081586e3e6fa5b843cd54432e
+| Tool.SilentInstaller.14.origin | e9213c8e5327622d7cebc0232d1a6b751c53a54d
+| Tool.CloudInject.1 | c66100aee1b7816fcca2dc7088d77e35fc2ab771
+| Tool.CloudInject.2 | e0f72842a8ce55c5ba633512529fca128bf20dbe
+| Tool.Packer.1.origin | 897b65ae5ab11a2ceeb238b4ce41fab0b413c466
+| Tool.NPMod.1 | 696588e66632cfd79f0ad9390c8df7e5ed5671a6
+| Tool.NPMod.2 | 11a54fda40f8648af8132b81b1e501d91bb0e24c
+| Adware.ModAd.1 | f313360472d294b9f6205585bd5742a59ad07065
+| Adware.AdPush.39.origin | 7a168d81399a0872f7b86deeb773f8d995e7a450
+| Adware.AdPush.39.origin | feafc0517dd9d40d7c621b7296bc072c3806f4f8
+| Adware.Adpush.21846 | 4e164cd0a8ad4e00102717957ee85320234bc7d3
+| Adware.ShareInstall.1.origin | 0f244a35f16ef045bb389a07c520d222e683561d
+| Adware.Airpush.7.origin | 48dd9d4b9c69c5c5f0fa387864d8ce1f68dea50f

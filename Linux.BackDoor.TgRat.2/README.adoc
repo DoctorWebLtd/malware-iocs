@@ -1,0 +1,34 @@
+= Do shoot the messenger: Telegram-controlled backdoor trojan targets Linux servers — Indicators of compromise
+
+== Samples
+
+|===
+| SHA-1 | Detection name | Version
+
+| b6686c28c84ae5d98909eaf165321138eb24402b6e9aa24fd36f116897e5da4a | Linux.MulDrop.135 | 3.0.078125
+| c6839e261e0d018f20c70eb65dd7cf6d82efb7e842cba8d8580649826d665343 | Linux.BackDoor.TgRat.1 | 3.0.078125
+| 2c573abfa5f989511f669b8ece80aecd4362cba6041841fff2c008dea81e9378 | Linux.MulDrop.135 | 3.0.378125
+| a9880d0a284c18b7d6b1ded302e4bef3d91e665af8b2ff0984ed6fbd1fd5091e | Linux.BackDoor.TgRat.2 | 3.0.378125
+|===
+
+== Network indicators
+
+=== Telegram API token
+|====
+| Token | Version
+| 6210985956:AAFgjOf-UH94uxfSvWbAyzlEzZdOZzWwV4g | 3.0.078125
+| 6397562704:AAEt1UAWUcWcJb3Q5MQo8ZYF0NvJAUTk7S0 | 3.0.378125
+|====
+
+=== Telegram chat ID
+|====
+| ID | Version
+| -1001616374018 | 3.0.078125
+| -1001913285180 | 3.0.378125
+|====
+
+=== IP addresses
+----
+172[.]24.173[.]28:3128
+----
+

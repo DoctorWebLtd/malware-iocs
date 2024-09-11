@@ -1,0 +1,72 @@
+= Void captures over a million Android TV boxes -- Indicators of compromise
+
+== Samples
+
+All hashes are SHA1
+
+===  Known Android.Vo1d.1 variants (/system/xbin/vo1d)
+
+|===
+| SHA-1 | Decrypted payload SHA-1
+
+| f3732871371819532416cf2ec03ea103a3d61802 | 675f9a34f6f8dc887e47aa85fffda41c178eb186
+| 637c491d29eb87a30d22a7db1ccb38ad447c8de8 | 9a8b7a85742330970e067f2b80ada9e295b0e035
+| 42def5b7eb8b1bcc727739cca98efe42c022a3f6  | 4b1135c6cade7e17548982338bfa9382e3c234f0
+
+|===
+
+
+===  Known Android.Vo1d.3 variants (/system/xbin/wd)
+
+|===
+| SHA-1 | Decrypted payload SHA-1
+
+| 8399c41b0d24c30391d7fba6b634ba29c0440007 | ccf8c0cb83160a20fa4c89b028fb63884f7b6a86
+| e5b16486eebd6c6f7c45197f530e854a4f1373dd | cd3c8d0ca99400c86e7e4943e85669f291c52a74
+| 51bd967bd7d59a8a9db8083094603a9d10e61ded | 3e941c34af4e07496f515c35eddaff145e06c42a
+| 0b3c8113e996ac4e08552761731f9f97b8f0f6a2 | 2d2ceddafbce5afe79e3424ebc32dea4d5dff1fe
+| 0d51c034a6deda4d2db21c5852b8ceb8a1e1c68b | 51d17a5a1950db3236c9db3249ab0dcb03223d11
+| 9dcc109ac2c5f873ece422aed0687ba21d594e9b | e05c1338426a07a49eb3491e08abbc3f96b047b3
+| e5406ae7482c0062cedafbd118a493ab8b7fe530 | c53a76845a78ec9b613442a208b5b2ea8fbecc91
+
+|===
+
+===  Known Android.Vo1d.5 variants (/data/google/daemon)
+
+|===
+| SHA-1 | Decrypted payload SHA-1
+
+| e34c6a13ccbecf7560d4cb8a32872b8aabd5f8db | 825df85d82a3de5e4bf6347dcba47e3ec48dbd52
+| 3e21821a1e6edb684f3931d685b908d4a8df3f19 | 6707cbb2b4e09911c4ada7e24c05e4fbd66a7851
+| b1cf85aaf1a355677534ea12c19b034c656804ec | 89788eabef15303c142fff33dfd560e619595ae5
+| ed975255eba30345de74936e24b9b3090f26ed7e | 182939085a9aa1d6f0e60da31b200cd644522748
+| 3ce81fbb1d968e01e970c4c673a7eeb61c247c85 | 436f200abfc0db4ae6138b0b2f1ab67af57ca506
+| 0c7f9f33a40a6028dbef416b2385876c87f1bd48 | df71b68c4172ef7f23949c643550c40d0f81fa83
+| 6e06d0decf5e211183a751b206dd533f91c13b22 | b6a00590a3b0b175fa2ec910744875dd5be995ac
+
+|===
+
+=== Known Android.Vo1d.1.origin variants (com.google.android.services)
+
+|===
+| SHA-1
+
+| 7f87f9f059a58eb830d59af5bcb29c612b2a6ccf
+| 9fcdfb9cadabe12283a002755a27a4a68a101949
+| 25f93476cb8dc6a7f727a88ece0c5a0c19157c0b
+| 3a4d90b9911e7e582cf3279b15f2f822a5bb2823
+| b315be9d64e22960f6072aac60538b13d50da054
+| 618b98eb97f38ffa7b384b0932fd4b92c8877f60
+| b474c279da7b08fd64f92b0781e2663bf6cbb4b6
+
+|===
+
+== Network indicators
+
+=== Domains
+----
+hxxp[:]//meiboot[.]com/
+hxxp[:]//bitemores[.]com/
+hxxp[:]//6f33933ce4a5c0e1b32fea736a61351a[.]com/
+hxxp[:]//catmos99[.]com:81/
+----

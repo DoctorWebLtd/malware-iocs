@@ -1,0 +1,79 @@
+= Redis honeypot: server with vulnerable Redis database reveals new SkidMap modification used to hide cryptocurrency mining process
+
+== Hashes
+
+[cols="1,2"]
+|===
+| *Name* | *sha-1*
+| Linux.DownLoader.2213 | 936616f99c2d4b9986a8d35514531bab7697faad c53748e9f9803ff4eaa99e4c1ef73b5a9fac7a94
+| Linux.MulDrop.142 | 0da1fa467f1db4cea0e591a2ab369f49ab2a41f074da85da37919951c28ae574
+| Linux.MulDrop.143 | d75fd66a622fd5846642840f00194ed77ed7d2ba54ebdcd78ecb9700edc9ddab
+| Linux.MulDrop.151 | 030dbc854bb9bdce25e96881b15c812659d71fed 7d4c1910d8bf94c95b18c5131b3df969119d33a6 f4a8fa193a9abaa7575445fdae7c80393dcf38d4
+| Linux.MulDrop.144 | ee78829b7057233643abc5fd685b46d3ef040a0347bb4569ac252984760eea2f 94f4eee7f986699699cd38eba68bf8adda1037eafbd0590c0d9b77b3133d0bfa
+| Linux.BtcMine.815 | 084657ee9a939d00f4a0d82f45692008699329e1 14f483fd7eb792ec2ebe0c8459896db143985669 3de0a2f76f95375c1c078a465683415bda99f01b
+| Linux.BackDoor.SSH.425 | 03ebfbf83a7f9c01fa496dec22fbfad1465587d3 1889c26c75aed993b0f2dfd78306c7095b69364d e456a26028cffc3de502df0af75255fe3a558776
+| Linux.BackDoor.SSH.426 | 24f5377a8b0f5dff1c7f0f058b7c76bccfc109c0 57e992c3562d0d7d5954f9b6eb7e464eb5aa732d e622265120fd9b05a27f24b69a75d852186eaac2
+| Linux.Stealer.8 | 205952f7d3bab21a77e583451b788bbda0227ce1 cfacfea656aac991d2df35af4df593c6abec9059 d375abefbc8bca16c5a901f6f4d831a152b886c2
+| Linux.Siggen.7907 | 16aaca24bce66f4f19d80e729801d343047dee9c
+| Linux.BackDoor.RCTL.2 | 2db920cfe65ddfb73bc08735671991248a56273e |
+|===
+
+== File artifacts
+----
+/usr/bin/ssh
+/usr/bin/scp
+/usr/bin/biosdecoded
+/usr/bin/devlinked
+/usr/bin/matchpathcond
+/usr/bin/postcated
+/usr/bin/postmaped
+/usr/bin/telinited
+/lib/udev/collectd/kmeminfo.ko
+/lib/udev/collectd/mcpuinfo.ko
+/etc/reviews/cn
+/etc/reviews/ig
+/etc/reviews/ip
+/etc/reviews/it
+/etc/reviews/nt
+/etc/reviews/rt
+/etc/reviews/up
+/etc/reviews/uu
+/etc/reviews/ux
+/etc/mountinfo
+/etc/dhclientd
+/etc/dhclientdx
+/etc/dhclientdd
+/usr/include/olog.h
+/usr/include/ilog.h
+etc/collectd/certs/rctl_ca.crt
+----
+
+== Domains
+----
+c80.softgoldinformation[.]com
+c443.softgoldinformation[.]com
+c80.softprojectcode[.]com
+c443.softprojectcode[.]com
+tls8990.softgoldinformation[.]com
+tls8990.softprojectcode[.]com
+m80.softprojectcode[.]com
+m80.softgoldinformation[.]com
+tls2.softprojectcode[.]com
+tls2.softgoldinformation[.]com
+m7.softprojectcode[.]com
+m7.softgoldinformation[.]com
+tls1.softprojectcode[.]com
+tls1.softgoldinformation[.]com
+----
+
+
+== Misc
+=== Certificate
+----
+-----BEGIN CERTIFICATE-----MIID1DCCArwCCQDrvzm79oEkYTANBgkqhkiG9w0BAQsFADCBqzELMAkGA1UEBhMCVVMxFDASBgNVBAgMC0xvcyBBbmdlbGVzMRcwFQYDVQQHDA5WZW50dXJhIENvdW50eTEQMA4GA1UECgwHU29mdGFyZTENMAsGA1UECwwEVGVjaDEgMB4GA1UEAwwXc29mdGdvbGRpbmZvcm1hdGlvbi5jb20xKjAoBgkqhkiG9w0BCQEWG21haUBzb2Z0Z29sZGluZm9ybWF0aW9uLmNvbTAeFw0yMTAxMDkxMTUyNDZaFw0zMTAxMDcxMTUyNDZaMIGrMQswCQYDVQQGEwJVUzEUMBIGA1UECAwLTG9zIEFuZ2VsZXMxFzAVBgNVBAcMDlZlbnR1cmEgQ291bnR5MRAwDgYDVQQKDAdTb2Z0YXJlMQ0wCwYDVQQLDARUZWNoMSAwHgYDVQQDDBdzb2Z0Z29sZGluZm9ybWF0aW9uLmNvbTEqMCgGCSqGSIb3DQEJARYbbWFpQHNvZnRnb2xkaW5mb3JtYXRpb24uY29tMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1up0wA6rUAABnSm7VijCRp+I+wrwWkQIJm0lOYgeXMdxYgOaBPyvT1PYdhMXAdd/Xf3j3uCz0td4jy1YJHzT7832KTDX+YHs7IGV1hkfpLVi6uguX9lATlBQmptqW7N6q+5/lL9XYNwlC6+AIIStLFdUgb9YSIjXF4fu8JjkyK7j7FEXFJ2KF4LAPoDtcUBZVo4GqG/rFdL9joPitVbkO0jhK6/UpVtASINeCRJKCQie5yK301PQqMeB3bACPlK7J7a4iwGaYrl7g8LJcCnX4ib6w5D4o41kVUWlo8mgfZRNgNArAcfREyFtvj+kEhWq8vooWs03SQyuo6USIaFDwQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQBJzKFXc9IuYcTb4pTgP6s0bu5EIxJ/ZYSGbbJt+z48cZ15Q9T8vEPYZpa8xWmBIZBYiu3iG76jtDt4tXkTYc+sNgfdwtIV2beiZPnRZkF7Il/VaWIBwg6BffYuhJqTTYRelXa1ULbazIqSf0SKGO68RRtH5IhqAaICIyzgPtgvk6sf04Qt2yQmCBIyay0foUylUUJpABWHnx7uLPUP+5nxZUhDiCTEkExZxjA0kZnLLmAWyn92k2UPKsTK3EaVvch1RfX9Ivp2iHSOoyix+lNhNgGOzx/zoHqpLDlVBfTeLr16cUrnawl3pok1JuBX03HE08oH5uKqtYyyXSKN0gZA-----END CERTIFICATE-----
+----
+
+=== Wallet address
+----
+47crZwpezjKEbsAqDiqjj1dwDo1vMBDxoPdB48cXCpBZ4RdYYwyiyb956aBEh3ZQv3i1vSNtZjw89g9zMEXTv9LAD13XHbN
+----
